@@ -76,14 +76,6 @@ def load_detectors(model_filter: list[str] | None = None) -> list:
         except Exception as e:
             print(f"  [SKIP] paddle_server: {e}")
 
-    # MMOCR
-    if should_load("mmocr"):
-        try:
-            from src.detectors.mmocr_detector import get_all_mmocr_detectors
-            detectors.extend(get_all_mmocr_detectors())
-        except Exception as e:
-            print(f"  [SKIP] mmocr: {e}")
-
     return detectors
 
 

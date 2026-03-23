@@ -60,10 +60,6 @@ def main():
         from src.recognizers.paddle_rec import PaddleCyrillicRecognizer
         rec = PaddleCyrillicRecognizer()
 
-    elif model == "mmocr":
-        from src.recognizers.mmocr_rec import MMOCRRecognizer
-        rec = MMOCRRecognizer()
-
     elif model == "docling":
         from src.recognizers.docling_rec import DoclingRecognizer
         rec = DoclingRecognizer()

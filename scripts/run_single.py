@@ -62,11 +62,6 @@ def main():
         from src.detectors.paddle_detector import PaddleServerDetector
         det = PaddleServerDetector()
 
-    elif model.startswith("mmocr_"):
-        mmocr_model = model.replace("mmocr_", "")
-        from src.detectors.mmocr_detector import MMOCRDetector
-        det = MMOCRDetector(model_name=mmocr_model)
-
     else:
         print(f"Unknown model: {args.model}")
         sys.exit(1)

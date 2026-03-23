@@ -1,0 +1,4006 @@
+{
+  "docling (tesseract)": {
+    "micro_wer": 0.4312,
+    "macro_wer": 0.5625,
+    "total_ref_words": 22635,
+    "per_image": {
+      "img_0001.jpg": {
+        "wer": 0.0833,
+        "ref_words": 216,
+        "hyp_words": 213
+      },
+      "img_0002.jpg": {
+        "wer": 0.6237,
+        "ref_words": 295,
+        "hyp_words": 327
+      },
+      "img_0003.jpg": {
+        "wer": 0.1325,
+        "ref_words": 551,
+        "hyp_words": 554
+      },
+      "img_0004.jpg": {
+        "wer": 0.0603,
+        "ref_words": 481,
+        "hyp_words": 483
+      },
+      "img_0005.jpg": {
+        "wer": 0.3484,
+        "ref_words": 531,
+        "hyp_words": 626
+      },
+      "img_0006.jpg": {
+        "wer": 0.741,
+        "ref_words": 166,
+        "hyp_words": 214
+      },
+      "img_0007.jpg": {
+        "wer": 0.1019,
+        "ref_words": 422,
+        "hyp_words": 399
+      },
+      "img_0008.jpg": {
+        "wer": 0.1156,
+        "ref_words": 467,
+        "hyp_words": 472
+      },
+      "img_0009.jpg": {
+        "wer": 0.7494,
+        "ref_words": 447,
+        "hyp_words": 271
+      },
+      "img_0010.jpg": {
+        "wer": 0.6753,
+        "ref_words": 194,
+        "hyp_words": 230
+      },
+      "img_0011.jpg": {
+        "wer": 0.1434,
+        "ref_words": 272,
+        "hyp_words": 273
+      },
+      "img_0012.jpg": {
+        "wer": 0.9716,
+        "ref_words": 211,
+        "hyp_words": 138
+      },
+      "img_0013.jpg": {
+        "wer": 1.547,
+        "ref_words": 117,
+        "hyp_words": 184
+      },
+      "img_0014.jpg": {
+        "wer": 0.0997,
+        "ref_words": 341,
+        "hyp_words": 344
+      },
+      "img_0015.png": {
+        "wer": 0.3872,
+        "ref_words": 545,
+        "hyp_words": 642
+      },
+      "img_0016.png": {
+        "wer": 0.5899,
+        "ref_words": 139,
+        "hyp_words": 104
+      },
+      "img_0017.png": {
+        "wer": 0.2841,
+        "ref_words": 542,
+        "hyp_words": 581
+      },
+      "img_0018.jpg": {
+        "wer": 0.0761,
+        "ref_words": 197,
+        "hyp_words": 193
+      },
+      "img_0019.jpg": {
+        "wer": 0.8962,
+        "ref_words": 260,
+        "hyp_words": 384
+      },
+      "img_0020.jpg": {
+        "wer": 0.7365,
+        "ref_words": 167,
+        "hyp_words": 174
+      },
+      "img_0021.jpg": {
+        "wer": 0.2242,
+        "ref_words": 281,
+        "hyp_words": 307
+      },
+      "img_0022.png": {
+        "wer": 0.5371,
+        "ref_words": 566,
+        "hyp_words": 652
+      },
+      "img_0023.jpg": {
+        "wer": 0.5476,
+        "ref_words": 126,
+        "hyp_words": 167
+      },
+      "img_0024.jpg": {
+        "wer": 0.6168,
+        "ref_words": 107,
+        "hyp_words": 142
+      },
+      "img_0025.jpg": {
+        "wer": 0.5156,
+        "ref_words": 128,
+        "hyp_words": 96
+      },
+      "img_0026.jpg": {
+        "wer": 0.3221,
+        "ref_words": 149,
+        "hyp_words": 116
+      },
+      "img_0027.jpg": {
+        "wer": 0.6667,
+        "ref_words": 27,
+        "hyp_words": 22
+      },
+      "img_0028.jpg": {
+        "wer": 0.2739,
+        "ref_words": 157,
+        "hyp_words": 136
+      },
+      "img_0029.jpg": {
+        "wer": 0.0313,
+        "ref_words": 319,
+        "hyp_words": 315
+      },
+      "img_0030.jpg": {
+        "wer": 0.3492,
+        "ref_words": 126,
+        "hyp_words": 120
+      },
+      "img_0031.jpg": {
+        "wer": 0.5935,
+        "ref_words": 123,
+        "hyp_words": 133
+      },
+      "img_0032.jpg": {
+        "wer": 1.3651,
+        "ref_words": 63,
+        "hyp_words": 86
+      },
+      "img_0033.jpg": {
+        "wer": 0.6757,
+        "ref_words": 111,
+        "hyp_words": 158
+      },
+      "img_0034.jpg": {
+        "wer": 0.4767,
+        "ref_words": 86,
+        "hyp_words": 94
+      },
+      "img_0035.jpg": {
+        "wer": 0.8,
+        "ref_words": 85,
+        "hyp_words": 117
+      },
+      "img_0036.jpg": {
+        "wer": 0.3451,
+        "ref_words": 113,
+        "hyp_words": 117
+      },
+      "img_0037.jpg": {
+        "wer": 1.0,
+        "ref_words": 62,
+        "hyp_words": 0
+      },
+      "img_0038.jpg": {
+        "wer": 0.4239,
+        "ref_words": 92,
+        "hyp_words": 101
+      },
+      "img_0039.jpg": {
+        "wer": 0.8065,
+        "ref_words": 93,
+        "hyp_words": 20
+      },
+      "img_0040.jpg": {
+        "wer": 0.9494,
+        "ref_words": 79,
+        "hyp_words": 98
+      },
+      "img_0041.jpg": {
+        "wer": 0.6289,
+        "ref_words": 159,
+        "hyp_words": 197
+      },
+      "img_0042.jpg": {
+        "wer": 0.6522,
+        "ref_words": 92,
+        "hyp_words": 125
+      },
+      "img_0043.jpg": {
+        "wer": 0.8476,
+        "ref_words": 105,
+        "hyp_words": 87
+      },
+      "img_0044.jpg": {
+        "wer": 0.5564,
+        "ref_words": 133,
+        "hyp_words": 147
+      },
+      "img_0045.jpg": {
+        "wer": 1.7188,
+        "ref_words": 96,
+        "hyp_words": 176
+      },
+      "img_0046.jpg": {
+        "wer": 1.2176,
+        "ref_words": 193,
+        "hyp_words": 246
+      },
+      "img_0047.jpg": {
+        "wer": 0.3333,
+        "ref_words": 129,
+        "hyp_words": 118
+      },
+      "img_0048.jpg": {
+        "wer": 0.6483,
+        "ref_words": 145,
+        "hyp_words": 167
+      },
+      "img_0049.jpg": {
+        "wer": 1.0,
+        "ref_words": 93,
+        "hyp_words": 0
+      },
+      "img_0050.jpg": {
+        "wer": 1.0,
+        "ref_words": 105,
+        "hyp_words": 76
+      },
+      "img_0051.jpg": {
+        "wer": 0.8456,
+        "ref_words": 272,
+        "hyp_words": 356
+      },
+      "img_0052.jpg": {
+        "wer": 0.9024,
+        "ref_words": 82,
+        "hyp_words": 33
+      },
+      "img_0053.jpg": {
+        "wer": 0.1551,
+        "ref_words": 316,
+        "hyp_words": 312
+      },
+      "img_0054.jpg": {
+        "wer": 0.1027,
+        "ref_words": 292,
+        "hyp_words": 288
+      },
+      "img_0055.jpg": {
+        "wer": 0.3333,
+        "ref_words": 156,
+        "hyp_words": 159
+      },
+      "img_0056.jpg": {
+        "wer": 0.3766,
+        "ref_words": 154,
+        "hyp_words": 148
+      },
+      "img_0057.jpg": {
+        "wer": 0.103,
+        "ref_words": 398,
+        "hyp_words": 390
+      },
+      "img_0058.jpg": {
+        "wer": 0.095,
+        "ref_words": 358,
+        "hyp_words": 357
+      },
+      "img_0059.png": {
+        "wer": 0.3939,
+        "ref_words": 231,
+        "hyp_words": 152
+      },
+      "img_0060.jpg": {
+        "wer": 0.0809,
+        "ref_words": 272,
+        "hyp_words": 273
+      },
+      "img_0061.jpg": {
+        "wer": 0.1678,
+        "ref_words": 149,
+        "hyp_words": 147
+      },
+      "img_0062.jpg": {
+        "wer": 0.258,
+        "ref_words": 345,
+        "hyp_words": 345
+      },
+      "img_0063.jpg": {
+        "wer": 0.0617,
+        "ref_words": 324,
+        "hyp_words": 318
+      },
+      "img_0064.jpg": {
+        "wer": 0.039,
+        "ref_words": 359,
+        "hyp_words": 358
+      },
+      "img_0065.jpg": {
+        "wer": 0.1108,
+        "ref_words": 325,
+        "hyp_words": 318
+      },
+      "img_0066.jpg": {
+        "wer": 0.163,
+        "ref_words": 184,
+        "hyp_words": 191
+      },
+      "img_0067.jpg": {
+        "wer": 0.8338,
+        "ref_words": 373,
+        "hyp_words": 138
+      },
+      "img_0068.jpg": {
+        "wer": 0.1746,
+        "ref_words": 126,
+        "hyp_words": 127
+      },
+      "img_0069.jpg": {
+        "wer": 0.1265,
+        "ref_words": 166,
+        "hyp_words": 165
+      },
+      "img_0070.png": {
+        "wer": 0.2036,
+        "ref_words": 221,
+        "hyp_words": 216
+      },
+      "img_0071.jpg": {
+        "wer": 0.0747,
+        "ref_words": 281,
+        "hyp_words": 274
+      },
+      "img_0072.jpg": {
+        "wer": 0.1357,
+        "ref_words": 199,
+        "hyp_words": 188
+      },
+      "img_0073.jpg": {
+        "wer": 0.3343,
+        "ref_words": 344,
+        "hyp_words": 296
+      },
+      "img_0074.jpg": {
+        "wer": 0.2632,
+        "ref_words": 133,
+        "hyp_words": 117
+      },
+      "img_0075.jpg": {
+        "wer": 0.0608,
+        "ref_words": 378,
+        "hyp_words": 378
+      },
+      "img_0076.jpg": {
+        "wer": 0.8229,
+        "ref_words": 350,
+        "hyp_words": 123
+      },
+      "img_0077.jpg": {
+        "wer": 0.1656,
+        "ref_words": 151,
+        "hyp_words": 154
+      },
+      "img_0078.png": {
+        "wer": 0.1073,
+        "ref_words": 289,
+        "hyp_words": 279
+      },
+      "img_0079.jpg": {
+        "wer": 0.6736,
+        "ref_words": 337,
+        "hyp_words": 322
+      },
+      "img_0080.jpg": {
+        "wer": 0.4515,
+        "ref_words": 361,
+        "hyp_words": 274
+      },
+      "img_0081.jpg": {
+        "wer": 0.5058,
+        "ref_words": 172,
+        "hyp_words": 158
+      },
+      "img_0082.jpg": {
+        "wer": 1.0,
+        "ref_words": 124,
+        "hyp_words": 0
+      },
+      "img_0083.jpg": {
+        "wer": 1.0,
+        "ref_words": 47,
+        "hyp_words": 23
+      },
+      "img_0084.jpg": {
+        "wer": 1.2,
+        "ref_words": 40,
+        "hyp_words": 48
+      },
+      "img_0085.jpg": {
+        "wer": 0.7949,
+        "ref_words": 39,
+        "hyp_words": 36
+      },
+      "img_0086.jpg": {
+        "wer": 0.8125,
+        "ref_words": 48,
+        "hyp_words": 19
+      },
+      "img_0087.jpg": {
+        "wer": 0.75,
+        "ref_words": 52,
+        "hyp_words": 41
+      },
+      "img_0088.jpg": {
+        "wer": 0.9538,
+        "ref_words": 65,
+        "hyp_words": 45
+      },
+      "img_0089.jpg": {
+        "wer": 1.2391,
+        "ref_words": 46,
+        "hyp_words": 63
+      },
+      "img_0090.jpg": {
+        "wer": 0.8462,
+        "ref_words": 39,
+        "hyp_words": 45
+      },
+      "img_0091.jpg": {
+        "wer": 1.0,
+        "ref_words": 61,
+        "hyp_words": 46
+      },
+      "img_0092.jpg": {
+        "wer": 0.9688,
+        "ref_words": 32,
+        "hyp_words": 9
+      },
+      "img_0093.jpg": {
+        "wer": 3.2754,
+        "ref_words": 69,
+        "hyp_words": 228
+      },
+      "img_0094.jpg": {
+        "wer": 0.8571,
+        "ref_words": 56,
+        "hyp_words": 22
+      },
+      "img_0095.jpg": {
+        "wer": 0.7105,
+        "ref_words": 38,
+        "hyp_words": 24
+      },
+      "img_0096.jpg": {
+        "wer": 0.3179,
+        "ref_words": 151,
+        "hyp_words": 137
+      },
+      "img_0097.jpg": {
+        "wer": 0.4128,
+        "ref_words": 109,
+        "hyp_words": 77
+      },
+      "img_0098.jpg": {
+        "wer": 0.7193,
+        "ref_words": 114,
+        "hyp_words": 148
+      },
+      "img_0099.jpg": {
+        "wer": 0.3217,
+        "ref_words": 143,
+        "hyp_words": 165
+      },
+      "img_0100.jpg": {
+        "wer": 0.56,
+        "ref_words": 150,
+        "hyp_words": 194
+      },
+      "img_0101.jpg": {
+        "wer": 0.4241,
+        "ref_words": 158,
+        "hyp_words": 172
+      },
+      "img_0102.jpg": {
+        "wer": 0.6009,
+        "ref_words": 218,
+        "hyp_words": 267
+      },
+      "img_0103.jpg": {
+        "wer": 0.702,
+        "ref_words": 151,
+        "hyp_words": 174
+      },
+      "img_0104.jpg": {
+        "wer": 0.5285,
+        "ref_words": 123,
+        "hyp_words": 119
+      },
+      "img_0105.jpg": {
+        "wer": 0.2527,
+        "ref_words": 186,
+        "hyp_words": 190
+      },
+      "img_0106.jpg": {
+        "wer": 0.5641,
+        "ref_words": 312,
+        "hyp_words": 341
+      },
+      "img_0107.png": {
+        "wer": 0.5464,
+        "ref_words": 194,
+        "hyp_words": 212
+      },
+      "img_0108.png": {
+        "wer": 0.4558,
+        "ref_words": 147,
+        "hyp_words": 151
+      },
+      "img_0109.jpg": {
+        "wer": 0.565,
+        "ref_words": 177,
+        "hyp_words": 192
+      },
+      "img_0110.jpg": {
+        "wer": 0.4771,
+        "ref_words": 109,
+        "hyp_words": 84
+      },
+      "img_0111.png": {
+        "wer": 0.6871,
+        "ref_words": 147,
+        "hyp_words": 181
+      },
+      "img_0112.png": {
+        "wer": 0.6467,
+        "ref_words": 167,
+        "hyp_words": 120
+      },
+      "img_0113.jpg": {
+        "wer": 0.7664,
+        "ref_words": 321,
+        "hyp_words": 367
+      }
+    }
+  },
+  "dotsocr 1.7B": {
+    "micro_wer": 0.5012,
+    "macro_wer": 0.5348,
+    "total_ref_words": 22635,
+    "per_image": {
+      "img_0001.jpg": {
+        "wer": 0.0602,
+        "ref_words": 216,
+        "hyp_words": 212
+      },
+      "img_0002.jpg": {
+        "wer": 0.0576,
+        "ref_words": 295,
+        "hyp_words": 301
+      },
+      "img_0003.jpg": {
+        "wer": 1.0,
+        "ref_words": 551,
+        "hyp_words": 0
+      },
+      "img_0004.jpg": {
+        "wer": 0.1954,
+        "ref_words": 481,
+        "hyp_words": 447
+      },
+      "img_0005.jpg": {
+        "wer": 0.4652,
+        "ref_words": 531,
+        "hyp_words": 365
+      },
+      "img_0006.jpg": {
+        "wer": 0.1506,
+        "ref_words": 166,
+        "hyp_words": 161
+      },
+      "img_0007.jpg": {
+        "wer": 0.0853,
+        "ref_words": 422,
+        "hyp_words": 418
+      },
+      "img_0008.jpg": {
+        "wer": 0.7345,
+        "ref_words": 467,
+        "hyp_words": 126
+      },
+      "img_0009.jpg": {
+        "wer": 2.1342,
+        "ref_words": 447,
+        "hyp_words": 1151
+      },
+      "img_0010.jpg": {
+        "wer": 0.232,
+        "ref_words": 194,
+        "hyp_words": 190
+      },
+      "img_0011.jpg": {
+        "wer": 0.0735,
+        "ref_words": 272,
+        "hyp_words": 276
+      },
+      "img_0012.jpg": {
+        "wer": 0.2085,
+        "ref_words": 211,
+        "hyp_words": 202
+      },
+      "img_0013.jpg": {
+        "wer": 0.0342,
+        "ref_words": 117,
+        "hyp_words": 116
+      },
+      "img_0014.jpg": {
+        "wer": 0.1173,
+        "ref_words": 341,
+        "hyp_words": 340
+      },
+      "img_0015.png": {
+        "wer": 1.0,
+        "ref_words": 545,
+        "hyp_words": 0
+      },
+      "img_0016.png": {
+        "wer": 0.7194,
+        "ref_words": 139,
+        "hyp_words": 130
+      },
+      "img_0017.png": {
+        "wer": 1.0,
+        "ref_words": 542,
+        "hyp_words": 0
+      },
+      "img_0018.jpg": {
+        "wer": 0.0406,
+        "ref_words": 197,
+        "hyp_words": 197
+      },
+      "img_0019.jpg": {
+        "wer": 0.1038,
+        "ref_words": 260,
+        "hyp_words": 267
+      },
+      "img_0020.jpg": {
+        "wer": 0.2216,
+        "ref_words": 167,
+        "hyp_words": 155
+      },
+      "img_0021.jpg": {
+        "wer": 0.0676,
+        "ref_words": 281,
+        "hyp_words": 275
+      },
+      "img_0022.png": {
+        "wer": 0.7191,
+        "ref_words": 566,
+        "hyp_words": 167
+      },
+      "img_0023.jpg": {
+        "wer": 0.2619,
+        "ref_words": 126,
+        "hyp_words": 144
+      },
+      "img_0024.jpg": {
+        "wer": 0.3364,
+        "ref_words": 107,
+        "hyp_words": 121
+      },
+      "img_0025.jpg": {
+        "wer": 0.4922,
+        "ref_words": 128,
+        "hyp_words": 124
+      },
+      "img_0026.jpg": {
+        "wer": 0.2483,
+        "ref_words": 149,
+        "hyp_words": 143
+      },
+      "img_0027.jpg": {
+        "wer": 0.3333,
+        "ref_words": 27,
+        "hyp_words": 29
+      },
+      "img_0028.jpg": {
+        "wer": 1.0,
+        "ref_words": 157,
+        "hyp_words": 0
+      },
+      "img_0029.jpg": {
+        "wer": 0.0282,
+        "ref_words": 319,
+        "hyp_words": 319
+      },
+      "img_0030.jpg": {
+        "wer": 0.4444,
+        "ref_words": 126,
+        "hyp_words": 145
+      },
+      "img_0031.jpg": {
+        "wer": 0.4228,
+        "ref_words": 123,
+        "hyp_words": 97
+      },
+      "img_0032.jpg": {
+        "wer": 0.3016,
+        "ref_words": 63,
+        "hyp_words": 63
+      },
+      "img_0033.jpg": {
+        "wer": 1.0,
+        "ref_words": 111,
+        "hyp_words": 0
+      },
+      "img_0034.jpg": {
+        "wer": 0.3488,
+        "ref_words": 86,
+        "hyp_words": 98
+      },
+      "img_0035.jpg": {
+        "wer": 0.4235,
+        "ref_words": 85,
+        "hyp_words": 102
+      },
+      "img_0036.jpg": {
+        "wer": 0.4602,
+        "ref_words": 113,
+        "hyp_words": 133
+      },
+      "img_0037.jpg": {
+        "wer": 0.8387,
+        "ref_words": 62,
+        "hyp_words": 55
+      },
+      "img_0038.jpg": {
+        "wer": 0.087,
+        "ref_words": 92,
+        "hyp_words": 89
+      },
+      "img_0039.jpg": {
+        "wer": 0.6237,
+        "ref_words": 93,
+        "hyp_words": 127
+      },
+      "img_0040.jpg": {
+        "wer": 0.7468,
+        "ref_words": 79,
+        "hyp_words": 119
+      },
+      "img_0041.jpg": {
+        "wer": 1.0,
+        "ref_words": 159,
+        "hyp_words": 0
+      },
+      "img_0042.jpg": {
+        "wer": 0.663,
+        "ref_words": 92,
+        "hyp_words": 127
+      },
+      "img_0043.jpg": {
+        "wer": 1.1429,
+        "ref_words": 105,
+        "hyp_words": 179
+      },
+      "img_0044.jpg": {
+        "wer": 0.2256,
+        "ref_words": 133,
+        "hyp_words": 133
+      },
+      "img_0045.jpg": {
+        "wer": 1.5208,
+        "ref_words": 96,
+        "hyp_words": 215
+      },
+      "img_0046.jpg": {
+        "wer": 0.9378,
+        "ref_words": 193,
+        "hyp_words": 197
+      },
+      "img_0047.jpg": {
+        "wer": 0.3333,
+        "ref_words": 129,
+        "hyp_words": 143
+      },
+      "img_0048.jpg": {
+        "wer": 0.8069,
+        "ref_words": 145,
+        "hyp_words": 70
+      },
+      "img_0049.jpg": {
+        "wer": 0.7634,
+        "ref_words": 93,
+        "hyp_words": 106
+      },
+      "img_0050.jpg": {
+        "wer": 1.5429,
+        "ref_words": 105,
+        "hyp_words": 200
+      },
+      "img_0051.jpg": {
+        "wer": 0.1728,
+        "ref_words": 272,
+        "hyp_words": 275
+      },
+      "img_0052.jpg": {
+        "wer": 0.2195,
+        "ref_words": 82,
+        "hyp_words": 81
+      },
+      "img_0053.jpg": {
+        "wer": 0.0981,
+        "ref_words": 316,
+        "hyp_words": 309
+      },
+      "img_0054.jpg": {
+        "wer": 0.1199,
+        "ref_words": 292,
+        "hyp_words": 270
+      },
+      "img_0055.jpg": {
+        "wer": 0.1987,
+        "ref_words": 156,
+        "hyp_words": 156
+      },
+      "img_0056.jpg": {
+        "wer": 0.3052,
+        "ref_words": 154,
+        "hyp_words": 137
+      },
+      "img_0057.jpg": {
+        "wer": 1.0,
+        "ref_words": 398,
+        "hyp_words": 0
+      },
+      "img_0058.jpg": {
+        "wer": 0.0168,
+        "ref_words": 358,
+        "hyp_words": 355
+      },
+      "img_0059.png": {
+        "wer": 0.1082,
+        "ref_words": 231,
+        "hyp_words": 228
+      },
+      "img_0060.jpg": {
+        "wer": 0.0147,
+        "ref_words": 272,
+        "hyp_words": 270
+      },
+      "img_0061.jpg": {
+        "wer": 0.2215,
+        "ref_words": 149,
+        "hyp_words": 139
+      },
+      "img_0062.jpg": {
+        "wer": 0.0145,
+        "ref_words": 345,
+        "hyp_words": 343
+      },
+      "img_0063.jpg": {
+        "wer": 0.0216,
+        "ref_words": 324,
+        "hyp_words": 322
+      },
+      "img_0064.jpg": {
+        "wer": 1.0,
+        "ref_words": 359,
+        "hyp_words": 0
+      },
+      "img_0065.jpg": {
+        "wer": 1.0,
+        "ref_words": 325,
+        "hyp_words": 0
+      },
+      "img_0066.jpg": {
+        "wer": 1.0,
+        "ref_words": 184,
+        "hyp_words": 0
+      },
+      "img_0067.jpg": {
+        "wer": 1.0,
+        "ref_words": 373,
+        "hyp_words": 0
+      },
+      "img_0068.jpg": {
+        "wer": 0.1111,
+        "ref_words": 126,
+        "hyp_words": 126
+      },
+      "img_0069.jpg": {
+        "wer": 1.0,
+        "ref_words": 166,
+        "hyp_words": 0
+      },
+      "img_0070.png": {
+        "wer": 0.2489,
+        "ref_words": 221,
+        "hyp_words": 218
+      },
+      "img_0071.jpg": {
+        "wer": 0.0783,
+        "ref_words": 281,
+        "hyp_words": 264
+      },
+      "img_0072.jpg": {
+        "wer": 0.1558,
+        "ref_words": 199,
+        "hyp_words": 181
+      },
+      "img_0073.jpg": {
+        "wer": 0.2209,
+        "ref_words": 344,
+        "hyp_words": 303
+      },
+      "img_0074.jpg": {
+        "wer": 0.1579,
+        "ref_words": 133,
+        "hyp_words": 126
+      },
+      "img_0075.jpg": {
+        "wer": 0.0661,
+        "ref_words": 378,
+        "hyp_words": 361
+      },
+      "img_0076.jpg": {
+        "wer": 0.2686,
+        "ref_words": 350,
+        "hyp_words": 347
+      },
+      "img_0077.jpg": {
+        "wer": 0.0662,
+        "ref_words": 151,
+        "hyp_words": 153
+      },
+      "img_0078.png": {
+        "wer": 0.5986,
+        "ref_words": 289,
+        "hyp_words": 119
+      },
+      "img_0079.jpg": {
+        "wer": 1.0,
+        "ref_words": 337,
+        "hyp_words": 0
+      },
+      "img_0080.jpg": {
+        "wer": 0.2964,
+        "ref_words": 361,
+        "hyp_words": 310
+      },
+      "img_0081.jpg": {
+        "wer": 0.2616,
+        "ref_words": 172,
+        "hyp_words": 174
+      },
+      "img_0082.jpg": {
+        "wer": 0.8468,
+        "ref_words": 124,
+        "hyp_words": 45
+      },
+      "img_0083.jpg": {
+        "wer": 1.0,
+        "ref_words": 47,
+        "hyp_words": 0
+      },
+      "img_0084.jpg": {
+        "wer": 0.325,
+        "ref_words": 40,
+        "hyp_words": 31
+      },
+      "img_0085.jpg": {
+        "wer": 0.7179,
+        "ref_words": 39,
+        "hyp_words": 31
+      },
+      "img_0086.jpg": {
+        "wer": 0.875,
+        "ref_words": 48,
+        "hyp_words": 45
+      },
+      "img_0087.jpg": {
+        "wer": 0.6731,
+        "ref_words": 52,
+        "hyp_words": 49
+      },
+      "img_0088.jpg": {
+        "wer": 0.6923,
+        "ref_words": 65,
+        "hyp_words": 57
+      },
+      "img_0089.jpg": {
+        "wer": 0.6739,
+        "ref_words": 46,
+        "hyp_words": 34
+      },
+      "img_0090.jpg": {
+        "wer": 0.1795,
+        "ref_words": 39,
+        "hyp_words": 36
+      },
+      "img_0091.jpg": {
+        "wer": 1.0,
+        "ref_words": 61,
+        "hyp_words": 0
+      },
+      "img_0092.jpg": {
+        "wer": 0.6875,
+        "ref_words": 32,
+        "hyp_words": 29
+      },
+      "img_0093.jpg": {
+        "wer": 1.0,
+        "ref_words": 69,
+        "hyp_words": 0
+      },
+      "img_0094.jpg": {
+        "wer": 0.6071,
+        "ref_words": 56,
+        "hyp_words": 44
+      },
+      "img_0095.jpg": {
+        "wer": 5.1579,
+        "ref_words": 38,
+        "hyp_words": 200
+      },
+      "img_0096.jpg": {
+        "wer": 0.3907,
+        "ref_words": 151,
+        "hyp_words": 124
+      },
+      "img_0097.jpg": {
+        "wer": 0.6422,
+        "ref_words": 109,
+        "hyp_words": 77
+      },
+      "img_0098.jpg": {
+        "wer": 0.5263,
+        "ref_words": 114,
+        "hyp_words": 83
+      },
+      "img_0099.jpg": {
+        "wer": 0.2867,
+        "ref_words": 143,
+        "hyp_words": 124
+      },
+      "img_0100.jpg": {
+        "wer": 0.3467,
+        "ref_words": 150,
+        "hyp_words": 134
+      },
+      "img_0101.jpg": {
+        "wer": 0.3797,
+        "ref_words": 158,
+        "hyp_words": 131
+      },
+      "img_0102.jpg": {
+        "wer": 0.5183,
+        "ref_words": 218,
+        "hyp_words": 157
+      },
+      "img_0103.jpg": {
+        "wer": 0.4437,
+        "ref_words": 151,
+        "hyp_words": 100
+      },
+      "img_0104.jpg": {
+        "wer": 0.4797,
+        "ref_words": 123,
+        "hyp_words": 100
+      },
+      "img_0105.jpg": {
+        "wer": 0.3495,
+        "ref_words": 186,
+        "hyp_words": 144
+      },
+      "img_0106.jpg": {
+        "wer": 0.4199,
+        "ref_words": 312,
+        "hyp_words": 255
+      },
+      "img_0107.png": {
+        "wer": 0.4124,
+        "ref_words": 194,
+        "hyp_words": 159
+      },
+      "img_0108.png": {
+        "wer": 0.415,
+        "ref_words": 147,
+        "hyp_words": 115
+      },
+      "img_0109.jpg": {
+        "wer": 0.2881,
+        "ref_words": 177,
+        "hyp_words": 158
+      },
+      "img_0110.jpg": {
+        "wer": 0.6514,
+        "ref_words": 109,
+        "hyp_words": 59
+      },
+      "img_0111.png": {
+        "wer": 0.3333,
+        "ref_words": 147,
+        "hyp_words": 126
+      },
+      "img_0112.png": {
+        "wer": 0.5988,
+        "ref_words": 167,
+        "hyp_words": 106
+      },
+      "img_0113.jpg": {
+        "wer": 0.7227,
+        "ref_words": 321,
+        "hyp_words": 172
+      }
+    }
+  },
+  "easyocr": {
+    "micro_wer": 0.6938,
+    "macro_wer": 0.7477,
+    "total_ref_words": 22635,
+    "per_image": {
+      "img_0001.jpg": {
+        "wer": 0.6065,
+        "ref_words": 216,
+        "hyp_words": 204
+      },
+      "img_0002.jpg": {
+        "wer": 0.4881,
+        "ref_words": 295,
+        "hyp_words": 302
+      },
+      "img_0003.jpg": {
+        "wer": 0.6751,
+        "ref_words": 551,
+        "hyp_words": 576
+      },
+      "img_0004.jpg": {
+        "wer": 0.8524,
+        "ref_words": 481,
+        "hyp_words": 422
+      },
+      "img_0005.jpg": {
+        "wer": 0.7269,
+        "ref_words": 531,
+        "hyp_words": 494
+      },
+      "img_0006.jpg": {
+        "wer": 0.6205,
+        "ref_words": 166,
+        "hyp_words": 161
+      },
+      "img_0007.jpg": {
+        "wer": 0.7227,
+        "ref_words": 422,
+        "hyp_words": 370
+      },
+      "img_0008.jpg": {
+        "wer": 0.6617,
+        "ref_words": 467,
+        "hyp_words": 444
+      },
+      "img_0009.jpg": {
+        "wer": 0.868,
+        "ref_words": 447,
+        "hyp_words": 398
+      },
+      "img_0010.jpg": {
+        "wer": 0.8608,
+        "ref_words": 194,
+        "hyp_words": 188
+      },
+      "img_0011.jpg": {
+        "wer": 0.6949,
+        "ref_words": 272,
+        "hyp_words": 271
+      },
+      "img_0012.jpg": {
+        "wer": 0.9716,
+        "ref_words": 211,
+        "hyp_words": 180
+      },
+      "img_0013.jpg": {
+        "wer": 0.7778,
+        "ref_words": 117,
+        "hyp_words": 117
+      },
+      "img_0014.jpg": {
+        "wer": 0.7243,
+        "ref_words": 341,
+        "hyp_words": 318
+      },
+      "img_0015.png": {
+        "wer": 0.6,
+        "ref_words": 545,
+        "hyp_words": 560
+      },
+      "img_0016.png": {
+        "wer": 0.9712,
+        "ref_words": 139,
+        "hyp_words": 94
+      },
+      "img_0017.png": {
+        "wer": 0.6882,
+        "ref_words": 542,
+        "hyp_words": 558
+      },
+      "img_0018.jpg": {
+        "wer": 0.5025,
+        "ref_words": 197,
+        "hyp_words": 192
+      },
+      "img_0019.jpg": {
+        "wer": 0.6269,
+        "ref_words": 260,
+        "hyp_words": 229
+      },
+      "img_0020.jpg": {
+        "wer": 0.521,
+        "ref_words": 167,
+        "hyp_words": 164
+      },
+      "img_0021.jpg": {
+        "wer": 0.4698,
+        "ref_words": 281,
+        "hyp_words": 255
+      },
+      "img_0022.png": {
+        "wer": 0.6837,
+        "ref_words": 566,
+        "hyp_words": 531
+      },
+      "img_0023.jpg": {
+        "wer": 0.8095,
+        "ref_words": 126,
+        "hyp_words": 115
+      },
+      "img_0024.jpg": {
+        "wer": 0.8037,
+        "ref_words": 107,
+        "hyp_words": 106
+      },
+      "img_0025.jpg": {
+        "wer": 0.7656,
+        "ref_words": 128,
+        "hyp_words": 85
+      },
+      "img_0026.jpg": {
+        "wer": 0.8993,
+        "ref_words": 149,
+        "hyp_words": 166
+      },
+      "img_0027.jpg": {
+        "wer": 0.5185,
+        "ref_words": 27,
+        "hyp_words": 25
+      },
+      "img_0028.jpg": {
+        "wer": 0.7834,
+        "ref_words": 157,
+        "hyp_words": 199
+      },
+      "img_0029.jpg": {
+        "wer": 0.7649,
+        "ref_words": 319,
+        "hyp_words": 282
+      },
+      "img_0030.jpg": {
+        "wer": 0.6984,
+        "ref_words": 126,
+        "hyp_words": 129
+      },
+      "img_0031.jpg": {
+        "wer": 0.8537,
+        "ref_words": 123,
+        "hyp_words": 89
+      },
+      "img_0032.jpg": {
+        "wer": 0.9841,
+        "ref_words": 63,
+        "hyp_words": 76
+      },
+      "img_0033.jpg": {
+        "wer": 0.8198,
+        "ref_words": 111,
+        "hyp_words": 124
+      },
+      "img_0034.jpg": {
+        "wer": 0.6512,
+        "ref_words": 86,
+        "hyp_words": 85
+      },
+      "img_0035.jpg": {
+        "wer": 0.8824,
+        "ref_words": 85,
+        "hyp_words": 96
+      },
+      "img_0036.jpg": {
+        "wer": 0.7699,
+        "ref_words": 113,
+        "hyp_words": 104
+      },
+      "img_0037.jpg": {
+        "wer": 0.8871,
+        "ref_words": 62,
+        "hyp_words": 50
+      },
+      "img_0038.jpg": {
+        "wer": 0.7826,
+        "ref_words": 92,
+        "hyp_words": 91
+      },
+      "img_0039.jpg": {
+        "wer": 0.8495,
+        "ref_words": 93,
+        "hyp_words": 77
+      },
+      "img_0040.jpg": {
+        "wer": 0.7975,
+        "ref_words": 79,
+        "hyp_words": 110
+      },
+      "img_0041.jpg": {
+        "wer": 0.8428,
+        "ref_words": 159,
+        "hyp_words": 171
+      },
+      "img_0042.jpg": {
+        "wer": 0.6413,
+        "ref_words": 92,
+        "hyp_words": 87
+      },
+      "img_0043.jpg": {
+        "wer": 0.9333,
+        "ref_words": 105,
+        "hyp_words": 86
+      },
+      "img_0044.jpg": {
+        "wer": 0.6466,
+        "ref_words": 133,
+        "hyp_words": 90
+      },
+      "img_0045.jpg": {
+        "wer": 1.0417,
+        "ref_words": 96,
+        "hyp_words": 113
+      },
+      "img_0046.jpg": {
+        "wer": 0.3782,
+        "ref_words": 193,
+        "hyp_words": 185
+      },
+      "img_0047.jpg": {
+        "wer": 0.6822,
+        "ref_words": 129,
+        "hyp_words": 129
+      },
+      "img_0048.jpg": {
+        "wer": 0.8414,
+        "ref_words": 145,
+        "hyp_words": 108
+      },
+      "img_0049.jpg": {
+        "wer": 0.9785,
+        "ref_words": 93,
+        "hyp_words": 50
+      },
+      "img_0050.jpg": {
+        "wer": 1.3238,
+        "ref_words": 105,
+        "hyp_words": 158
+      },
+      "img_0051.jpg": {
+        "wer": 0.6654,
+        "ref_words": 272,
+        "hyp_words": 243
+      },
+      "img_0052.jpg": {
+        "wer": 0.622,
+        "ref_words": 82,
+        "hyp_words": 61
+      },
+      "img_0053.jpg": {
+        "wer": 0.6266,
+        "ref_words": 316,
+        "hyp_words": 302
+      },
+      "img_0054.jpg": {
+        "wer": 0.5959,
+        "ref_words": 292,
+        "hyp_words": 314
+      },
+      "img_0055.jpg": {
+        "wer": 0.9615,
+        "ref_words": 156,
+        "hyp_words": 149
+      },
+      "img_0056.jpg": {
+        "wer": 0.9675,
+        "ref_words": 154,
+        "hyp_words": 144
+      },
+      "img_0057.jpg": {
+        "wer": 0.5201,
+        "ref_words": 398,
+        "hyp_words": 382
+      },
+      "img_0058.jpg": {
+        "wer": 0.7709,
+        "ref_words": 358,
+        "hyp_words": 304
+      },
+      "img_0059.png": {
+        "wer": 0.6797,
+        "ref_words": 231,
+        "hyp_words": 231
+      },
+      "img_0060.jpg": {
+        "wer": 0.5625,
+        "ref_words": 272,
+        "hyp_words": 252
+      },
+      "img_0061.jpg": {
+        "wer": 0.8255,
+        "ref_words": 149,
+        "hyp_words": 136
+      },
+      "img_0062.jpg": {
+        "wer": 0.4812,
+        "ref_words": 345,
+        "hyp_words": 324
+      },
+      "img_0063.jpg": {
+        "wer": 0.4877,
+        "ref_words": 324,
+        "hyp_words": 302
+      },
+      "img_0064.jpg": {
+        "wer": 0.5097,
+        "ref_words": 359,
+        "hyp_words": 360
+      },
+      "img_0065.jpg": {
+        "wer": 0.6369,
+        "ref_words": 325,
+        "hyp_words": 349
+      },
+      "img_0066.jpg": {
+        "wer": 0.6359,
+        "ref_words": 184,
+        "hyp_words": 195
+      },
+      "img_0067.jpg": {
+        "wer": 0.5576,
+        "ref_words": 373,
+        "hyp_words": 364
+      },
+      "img_0068.jpg": {
+        "wer": 0.3968,
+        "ref_words": 126,
+        "hyp_words": 124
+      },
+      "img_0069.jpg": {
+        "wer": 0.506,
+        "ref_words": 166,
+        "hyp_words": 166
+      },
+      "img_0070.png": {
+        "wer": 0.8959,
+        "ref_words": 221,
+        "hyp_words": 195
+      },
+      "img_0071.jpg": {
+        "wer": 0.6797,
+        "ref_words": 281,
+        "hyp_words": 255
+      },
+      "img_0072.jpg": {
+        "wer": 0.5477,
+        "ref_words": 199,
+        "hyp_words": 184
+      },
+      "img_0073.jpg": {
+        "wer": 0.5698,
+        "ref_words": 344,
+        "hyp_words": 335
+      },
+      "img_0074.jpg": {
+        "wer": 0.5639,
+        "ref_words": 133,
+        "hyp_words": 123
+      },
+      "img_0075.jpg": {
+        "wer": 0.4815,
+        "ref_words": 378,
+        "hyp_words": 352
+      },
+      "img_0076.jpg": {
+        "wer": 0.9343,
+        "ref_words": 350,
+        "hyp_words": 301
+      },
+      "img_0077.jpg": {
+        "wer": 0.6623,
+        "ref_words": 151,
+        "hyp_words": 141
+      },
+      "img_0078.png": {
+        "wer": 0.5536,
+        "ref_words": 289,
+        "hyp_words": 287
+      },
+      "img_0079.jpg": {
+        "wer": 0.6142,
+        "ref_words": 337,
+        "hyp_words": 341
+      },
+      "img_0080.jpg": {
+        "wer": 0.9197,
+        "ref_words": 361,
+        "hyp_words": 307
+      },
+      "img_0081.jpg": {
+        "wer": 0.814,
+        "ref_words": 172,
+        "hyp_words": 147
+      },
+      "img_0082.jpg": {
+        "wer": 1.0,
+        "ref_words": 124,
+        "hyp_words": 63
+      },
+      "img_0083.jpg": {
+        "wer": 1.5106,
+        "ref_words": 47,
+        "hyp_words": 79
+      },
+      "img_0084.jpg": {
+        "wer": 1.1,
+        "ref_words": 40,
+        "hyp_words": 49
+      },
+      "img_0085.jpg": {
+        "wer": 1.2308,
+        "ref_words": 39,
+        "hyp_words": 68
+      },
+      "img_0086.jpg": {
+        "wer": 0.7917,
+        "ref_words": 48,
+        "hyp_words": 36
+      },
+      "img_0087.jpg": {
+        "wer": 0.9231,
+        "ref_words": 52,
+        "hyp_words": 45
+      },
+      "img_0088.jpg": {
+        "wer": 0.9846,
+        "ref_words": 65,
+        "hyp_words": 47
+      },
+      "img_0089.jpg": {
+        "wer": 1.1739,
+        "ref_words": 46,
+        "hyp_words": 69
+      },
+      "img_0090.jpg": {
+        "wer": 1.1026,
+        "ref_words": 39,
+        "hyp_words": 51
+      },
+      "img_0091.jpg": {
+        "wer": 1.3934,
+        "ref_words": 61,
+        "hyp_words": 98
+      },
+      "img_0092.jpg": {
+        "wer": 0.875,
+        "ref_words": 32,
+        "hyp_words": 21
+      },
+      "img_0093.jpg": {
+        "wer": 1.1739,
+        "ref_words": 69,
+        "hyp_words": 95
+      },
+      "img_0094.jpg": {
+        "wer": 0.9107,
+        "ref_words": 56,
+        "hyp_words": 49
+      },
+      "img_0095.jpg": {
+        "wer": 1.0,
+        "ref_words": 38,
+        "hyp_words": 38
+      },
+      "img_0096.jpg": {
+        "wer": 0.8013,
+        "ref_words": 151,
+        "hyp_words": 136
+      },
+      "img_0097.jpg": {
+        "wer": 0.8073,
+        "ref_words": 109,
+        "hyp_words": 100
+      },
+      "img_0098.jpg": {
+        "wer": 0.5965,
+        "ref_words": 114,
+        "hyp_words": 108
+      },
+      "img_0099.jpg": {
+        "wer": 0.3636,
+        "ref_words": 143,
+        "hyp_words": 151
+      },
+      "img_0100.jpg": {
+        "wer": 0.5067,
+        "ref_words": 150,
+        "hyp_words": 140
+      },
+      "img_0101.jpg": {
+        "wer": 0.4367,
+        "ref_words": 158,
+        "hyp_words": 175
+      },
+      "img_0102.jpg": {
+        "wer": 0.6789,
+        "ref_words": 218,
+        "hyp_words": 207
+      },
+      "img_0103.jpg": {
+        "wer": 0.4305,
+        "ref_words": 151,
+        "hyp_words": 123
+      },
+      "img_0104.jpg": {
+        "wer": 0.5854,
+        "ref_words": 123,
+        "hyp_words": 108
+      },
+      "img_0105.jpg": {
+        "wer": 0.5968,
+        "ref_words": 186,
+        "hyp_words": 158
+      },
+      "img_0106.jpg": {
+        "wer": 0.5994,
+        "ref_words": 312,
+        "hyp_words": 304
+      },
+      "img_0107.png": {
+        "wer": 0.4021,
+        "ref_words": 194,
+        "hyp_words": 185
+      },
+      "img_0108.png": {
+        "wer": 0.8299,
+        "ref_words": 147,
+        "hyp_words": 129
+      },
+      "img_0109.jpg": {
+        "wer": 0.5367,
+        "ref_words": 177,
+        "hyp_words": 175
+      },
+      "img_0110.jpg": {
+        "wer": 0.6422,
+        "ref_words": 109,
+        "hyp_words": 98
+      },
+      "img_0111.png": {
+        "wer": 0.7143,
+        "ref_words": 147,
+        "hyp_words": 127
+      },
+      "img_0112.png": {
+        "wer": 0.8982,
+        "ref_words": 167,
+        "hyp_words": 126
+      },
+      "img_0113.jpg": {
+        "wer": 0.7072,
+        "ref_words": 321,
+        "hyp_words": 265
+      }
+    }
+  },
+  "paddle_cyrillic": {
+    "micro_wer": 0.218,
+    "macro_wer": 0.3195,
+    "total_ref_words": 22635,
+    "per_image": {
+      "img_0001.jpg": {
+        "wer": 0.0417,
+        "ref_words": 216,
+        "hyp_words": 214
+      },
+      "img_0002.jpg": {
+        "wer": 0.0678,
+        "ref_words": 295,
+        "hyp_words": 296
+      },
+      "img_0003.jpg": {
+        "wer": 0.4083,
+        "ref_words": 551,
+        "hyp_words": 545
+      },
+      "img_0004.jpg": {
+        "wer": 0.0374,
+        "ref_words": 481,
+        "hyp_words": 480
+      },
+      "img_0005.jpg": {
+        "wer": 0.177,
+        "ref_words": 531,
+        "hyp_words": 549
+      },
+      "img_0006.jpg": {
+        "wer": 0.3193,
+        "ref_words": 166,
+        "hyp_words": 164
+      },
+      "img_0007.jpg": {
+        "wer": 0.0829,
+        "ref_words": 422,
+        "hyp_words": 414
+      },
+      "img_0008.jpg": {
+        "wer": 0.045,
+        "ref_words": 467,
+        "hyp_words": 468
+      },
+      "img_0009.jpg": {
+        "wer": 0.1588,
+        "ref_words": 447,
+        "hyp_words": 447
+      },
+      "img_0010.jpg": {
+        "wer": 0.2216,
+        "ref_words": 194,
+        "hyp_words": 193
+      },
+      "img_0011.jpg": {
+        "wer": 0.0699,
+        "ref_words": 272,
+        "hyp_words": 274
+      },
+      "img_0012.jpg": {
+        "wer": 0.1422,
+        "ref_words": 211,
+        "hyp_words": 211
+      },
+      "img_0013.jpg": {
+        "wer": 0.0769,
+        "ref_words": 117,
+        "hyp_words": 120
+      },
+      "img_0014.jpg": {
+        "wer": 0.1026,
+        "ref_words": 341,
+        "hyp_words": 342
+      },
+      "img_0015.png": {
+        "wer": 0.1945,
+        "ref_words": 545,
+        "hyp_words": 520
+      },
+      "img_0016.png": {
+        "wer": 0.2518,
+        "ref_words": 139,
+        "hyp_words": 134
+      },
+      "img_0017.png": {
+        "wer": 0.2122,
+        "ref_words": 542,
+        "hyp_words": 568
+      },
+      "img_0018.jpg": {
+        "wer": 0.0914,
+        "ref_words": 197,
+        "hyp_words": 198
+      },
+      "img_0019.jpg": {
+        "wer": 0.2192,
+        "ref_words": 260,
+        "hyp_words": 254
+      },
+      "img_0020.jpg": {
+        "wer": 0.2515,
+        "ref_words": 167,
+        "hyp_words": 165
+      },
+      "img_0021.jpg": {
+        "wer": 0.1174,
+        "ref_words": 281,
+        "hyp_words": 269
+      },
+      "img_0022.png": {
+        "wer": 0.1572,
+        "ref_words": 566,
+        "hyp_words": 569
+      },
+      "img_0023.jpg": {
+        "wer": 0.2143,
+        "ref_words": 126,
+        "hyp_words": 130
+      },
+      "img_0024.jpg": {
+        "wer": 0.3551,
+        "ref_words": 107,
+        "hyp_words": 122
+      },
+      "img_0025.jpg": {
+        "wer": 0.4531,
+        "ref_words": 128,
+        "hyp_words": 94
+      },
+      "img_0026.jpg": {
+        "wer": 0.3221,
+        "ref_words": 149,
+        "hyp_words": 145
+      },
+      "img_0027.jpg": {
+        "wer": 0.3704,
+        "ref_words": 27,
+        "hyp_words": 26
+      },
+      "img_0028.jpg": {
+        "wer": 0.2229,
+        "ref_words": 157,
+        "hyp_words": 170
+      },
+      "img_0029.jpg": {
+        "wer": 0.0219,
+        "ref_words": 319,
+        "hyp_words": 319
+      },
+      "img_0030.jpg": {
+        "wer": 0.3889,
+        "ref_words": 126,
+        "hyp_words": 124
+      },
+      "img_0031.jpg": {
+        "wer": 0.4472,
+        "ref_words": 123,
+        "hyp_words": 105
+      },
+      "img_0032.jpg": {
+        "wer": 0.3333,
+        "ref_words": 63,
+        "hyp_words": 65
+      },
+      "img_0033.jpg": {
+        "wer": 0.4324,
+        "ref_words": 111,
+        "hyp_words": 115
+      },
+      "img_0034.jpg": {
+        "wer": 0.2791,
+        "ref_words": 86,
+        "hyp_words": 92
+      },
+      "img_0035.jpg": {
+        "wer": 0.4706,
+        "ref_words": 85,
+        "hyp_words": 103
+      },
+      "img_0036.jpg": {
+        "wer": 0.4336,
+        "ref_words": 113,
+        "hyp_words": 121
+      },
+      "img_0037.jpg": {
+        "wer": 1.0323,
+        "ref_words": 62,
+        "hyp_words": 85
+      },
+      "img_0038.jpg": {
+        "wer": 0.1522,
+        "ref_words": 92,
+        "hyp_words": 90
+      },
+      "img_0039.jpg": {
+        "wer": 0.2043,
+        "ref_words": 93,
+        "hyp_words": 93
+      },
+      "img_0040.jpg": {
+        "wer": 0.6835,
+        "ref_words": 79,
+        "hyp_words": 111
+      },
+      "img_0041.jpg": {
+        "wer": 0.5535,
+        "ref_words": 159,
+        "hyp_words": 170
+      },
+      "img_0042.jpg": {
+        "wer": 0.4783,
+        "ref_words": 92,
+        "hyp_words": 115
+      },
+      "img_0043.jpg": {
+        "wer": 0.9429,
+        "ref_words": 105,
+        "hyp_words": 151
+      },
+      "img_0044.jpg": {
+        "wer": 0.3609,
+        "ref_words": 133,
+        "hyp_words": 126
+      },
+      "img_0045.jpg": {
+        "wer": 1.3333,
+        "ref_words": 96,
+        "hyp_words": 167
+      },
+      "img_0046.jpg": {
+        "wer": 0.114,
+        "ref_words": 193,
+        "hyp_words": 189
+      },
+      "img_0047.jpg": {
+        "wer": 0.3643,
+        "ref_words": 129,
+        "hyp_words": 119
+      },
+      "img_0048.jpg": {
+        "wer": 0.3241,
+        "ref_words": 145,
+        "hyp_words": 143
+      },
+      "img_0049.jpg": {
+        "wer": 0.6452,
+        "ref_words": 93,
+        "hyp_words": 85
+      },
+      "img_0050.jpg": {
+        "wer": 1.5905,
+        "ref_words": 105,
+        "hyp_words": 224
+      },
+      "img_0051.jpg": {
+        "wer": 0.125,
+        "ref_words": 272,
+        "hyp_words": 274
+      },
+      "img_0052.jpg": {
+        "wer": 0.3049,
+        "ref_words": 82,
+        "hyp_words": 77
+      },
+      "img_0053.jpg": {
+        "wer": 0.0696,
+        "ref_words": 316,
+        "hyp_words": 316
+      },
+      "img_0054.jpg": {
+        "wer": 0.0616,
+        "ref_words": 292,
+        "hyp_words": 285
+      },
+      "img_0055.jpg": {
+        "wer": 0.2692,
+        "ref_words": 156,
+        "hyp_words": 155
+      },
+      "img_0056.jpg": {
+        "wer": 0.3117,
+        "ref_words": 154,
+        "hyp_words": 147
+      },
+      "img_0057.jpg": {
+        "wer": 0.0704,
+        "ref_words": 398,
+        "hyp_words": 399
+      },
+      "img_0058.jpg": {
+        "wer": 0.014,
+        "ref_words": 358,
+        "hyp_words": 359
+      },
+      "img_0059.png": {
+        "wer": 0.2078,
+        "ref_words": 231,
+        "hyp_words": 220
+      },
+      "img_0060.jpg": {
+        "wer": 0.011,
+        "ref_words": 272,
+        "hyp_words": 272
+      },
+      "img_0061.jpg": {
+        "wer": 0.0336,
+        "ref_words": 149,
+        "hyp_words": 148
+      },
+      "img_0062.jpg": {
+        "wer": 0.0435,
+        "ref_words": 345,
+        "hyp_words": 344
+      },
+      "img_0063.jpg": {
+        "wer": 0.0154,
+        "ref_words": 324,
+        "hyp_words": 324
+      },
+      "img_0064.jpg": {
+        "wer": 0.2033,
+        "ref_words": 359,
+        "hyp_words": 349
+      },
+      "img_0065.jpg": {
+        "wer": 0.0892,
+        "ref_words": 325,
+        "hyp_words": 322
+      },
+      "img_0066.jpg": {
+        "wer": 0.3424,
+        "ref_words": 184,
+        "hyp_words": 171
+      },
+      "img_0067.jpg": {
+        "wer": 0.134,
+        "ref_words": 373,
+        "hyp_words": 383
+      },
+      "img_0068.jpg": {
+        "wer": 0.119,
+        "ref_words": 126,
+        "hyp_words": 122
+      },
+      "img_0069.jpg": {
+        "wer": 0.2892,
+        "ref_words": 166,
+        "hyp_words": 169
+      },
+      "img_0070.png": {
+        "wer": 0.0543,
+        "ref_words": 221,
+        "hyp_words": 221
+      },
+      "img_0071.jpg": {
+        "wer": 0.089,
+        "ref_words": 281,
+        "hyp_words": 281
+      },
+      "img_0072.jpg": {
+        "wer": 0.0402,
+        "ref_words": 199,
+        "hyp_words": 197
+      },
+      "img_0073.jpg": {
+        "wer": 0.1163,
+        "ref_words": 344,
+        "hyp_words": 346
+      },
+      "img_0074.jpg": {
+        "wer": 0.2256,
+        "ref_words": 133,
+        "hyp_words": 131
+      },
+      "img_0075.jpg": {
+        "wer": 0.0397,
+        "ref_words": 378,
+        "hyp_words": 378
+      },
+      "img_0076.jpg": {
+        "wer": 0.0857,
+        "ref_words": 350,
+        "hyp_words": 348
+      },
+      "img_0077.jpg": {
+        "wer": 0.1457,
+        "ref_words": 151,
+        "hyp_words": 160
+      },
+      "img_0078.png": {
+        "wer": 0.0554,
+        "ref_words": 289,
+        "hyp_words": 285
+      },
+      "img_0079.jpg": {
+        "wer": 0.0653,
+        "ref_words": 337,
+        "hyp_words": 338
+      },
+      "img_0080.jpg": {
+        "wer": 0.0748,
+        "ref_words": 361,
+        "hyp_words": 363
+      },
+      "img_0081.jpg": {
+        "wer": 0.1279,
+        "ref_words": 172,
+        "hyp_words": 173
+      },
+      "img_0082.jpg": {
+        "wer": 0.8387,
+        "ref_words": 124,
+        "hyp_words": 46
+      },
+      "img_0083.jpg": {
+        "wer": 0.4894,
+        "ref_words": 47,
+        "hyp_words": 47
+      },
+      "img_0084.jpg": {
+        "wer": 0.85,
+        "ref_words": 40,
+        "hyp_words": 45
+      },
+      "img_0085.jpg": {
+        "wer": 0.5897,
+        "ref_words": 39,
+        "hyp_words": 45
+      },
+      "img_0086.jpg": {
+        "wer": 0.7292,
+        "ref_words": 48,
+        "hyp_words": 34
+      },
+      "img_0087.jpg": {
+        "wer": 0.5962,
+        "ref_words": 52,
+        "hyp_words": 45
+      },
+      "img_0088.jpg": {
+        "wer": 0.8,
+        "ref_words": 65,
+        "hyp_words": 54
+      },
+      "img_0089.jpg": {
+        "wer": 0.6522,
+        "ref_words": 46,
+        "hyp_words": 39
+      },
+      "img_0090.jpg": {
+        "wer": 0.5385,
+        "ref_words": 39,
+        "hyp_words": 40
+      },
+      "img_0091.jpg": {
+        "wer": 0.7705,
+        "ref_words": 61,
+        "hyp_words": 62
+      },
+      "img_0092.jpg": {
+        "wer": 0.8125,
+        "ref_words": 32,
+        "hyp_words": 31
+      },
+      "img_0093.jpg": {
+        "wer": 0.6522,
+        "ref_words": 69,
+        "hyp_words": 56
+      },
+      "img_0094.jpg": {
+        "wer": 0.6786,
+        "ref_words": 56,
+        "hyp_words": 48
+      },
+      "img_0095.jpg": {
+        "wer": 0.6579,
+        "ref_words": 38,
+        "hyp_words": 32
+      },
+      "img_0096.jpg": {
+        "wer": 0.2119,
+        "ref_words": 151,
+        "hyp_words": 148
+      },
+      "img_0097.jpg": {
+        "wer": 0.4037,
+        "ref_words": 109,
+        "hyp_words": 100
+      },
+      "img_0098.jpg": {
+        "wer": 0.2632,
+        "ref_words": 114,
+        "hyp_words": 112
+      },
+      "img_0099.jpg": {
+        "wer": 0.2797,
+        "ref_words": 143,
+        "hyp_words": 142
+      },
+      "img_0100.jpg": {
+        "wer": 0.1933,
+        "ref_words": 150,
+        "hyp_words": 144
+      },
+      "img_0101.jpg": {
+        "wer": 0.3418,
+        "ref_words": 158,
+        "hyp_words": 169
+      },
+      "img_0102.jpg": {
+        "wer": 0.4633,
+        "ref_words": 218,
+        "hyp_words": 210
+      },
+      "img_0103.jpg": {
+        "wer": 0.4305,
+        "ref_words": 151,
+        "hyp_words": 143
+      },
+      "img_0104.jpg": {
+        "wer": 0.374,
+        "ref_words": 123,
+        "hyp_words": 119
+      },
+      "img_0105.jpg": {
+        "wer": 0.2151,
+        "ref_words": 186,
+        "hyp_words": 180
+      },
+      "img_0106.jpg": {
+        "wer": 0.2821,
+        "ref_words": 312,
+        "hyp_words": 325
+      },
+      "img_0107.png": {
+        "wer": 0.201,
+        "ref_words": 194,
+        "hyp_words": 192
+      },
+      "img_0108.png": {
+        "wer": 0.3061,
+        "ref_words": 147,
+        "hyp_words": 145
+      },
+      "img_0109.jpg": {
+        "wer": 0.3616,
+        "ref_words": 177,
+        "hyp_words": 173
+      },
+      "img_0110.jpg": {
+        "wer": 0.367,
+        "ref_words": 109,
+        "hyp_words": 106
+      },
+      "img_0111.png": {
+        "wer": 0.2313,
+        "ref_words": 147,
+        "hyp_words": 149
+      },
+      "img_0112.png": {
+        "wer": 0.3533,
+        "ref_words": 167,
+        "hyp_words": 154
+      },
+      "img_0113.jpg": {
+        "wer": 0.3676,
+        "ref_words": 321,
+        "hyp_words": 311
+      }
+    }
+  },
+  "paddle_eslav": {
+    "micro_wer": 0.2405,
+    "macro_wer": 0.3412,
+    "total_ref_words": 22635,
+    "per_image": {
+      "img_0001.jpg": {
+        "wer": 0.0833,
+        "ref_words": 216,
+        "hyp_words": 208
+      },
+      "img_0002.jpg": {
+        "wer": 0.0915,
+        "ref_words": 295,
+        "hyp_words": 293
+      },
+      "img_0003.jpg": {
+        "wer": 0.412,
+        "ref_words": 551,
+        "hyp_words": 537
+      },
+      "img_0004.jpg": {
+        "wer": 0.0707,
+        "ref_words": 481,
+        "hyp_words": 470
+      },
+      "img_0005.jpg": {
+        "wer": 0.1883,
+        "ref_words": 531,
+        "hyp_words": 535
+      },
+      "img_0006.jpg": {
+        "wer": 0.3373,
+        "ref_words": 166,
+        "hyp_words": 158
+      },
+      "img_0007.jpg": {
+        "wer": 0.1161,
+        "ref_words": 422,
+        "hyp_words": 408
+      },
+      "img_0008.jpg": {
+        "wer": 0.0621,
+        "ref_words": 467,
+        "hyp_words": 468
+      },
+      "img_0009.jpg": {
+        "wer": 0.2103,
+        "ref_words": 447,
+        "hyp_words": 427
+      },
+      "img_0010.jpg": {
+        "wer": 0.2732,
+        "ref_words": 194,
+        "hyp_words": 190
+      },
+      "img_0011.jpg": {
+        "wer": 0.1176,
+        "ref_words": 272,
+        "hyp_words": 271
+      },
+      "img_0012.jpg": {
+        "wer": 0.1801,
+        "ref_words": 211,
+        "hyp_words": 207
+      },
+      "img_0013.jpg": {
+        "wer": 0.1197,
+        "ref_words": 117,
+        "hyp_words": 121
+      },
+      "img_0014.jpg": {
+        "wer": 0.2287,
+        "ref_words": 341,
+        "hyp_words": 313
+      },
+      "img_0015.png": {
+        "wer": 0.1963,
+        "ref_words": 545,
+        "hyp_words": 515
+      },
+      "img_0016.png": {
+        "wer": 0.3525,
+        "ref_words": 139,
+        "hyp_words": 127
+      },
+      "img_0017.png": {
+        "wer": 0.2343,
+        "ref_words": 542,
+        "hyp_words": 562
+      },
+      "img_0018.jpg": {
+        "wer": 0.0761,
+        "ref_words": 197,
+        "hyp_words": 195
+      },
+      "img_0019.jpg": {
+        "wer": 0.2615,
+        "ref_words": 260,
+        "hyp_words": 245
+      },
+      "img_0020.jpg": {
+        "wer": 0.2874,
+        "ref_words": 167,
+        "hyp_words": 162
+      },
+      "img_0021.jpg": {
+        "wer": 0.1423,
+        "ref_words": 281,
+        "hyp_words": 264
+      },
+      "img_0022.png": {
+        "wer": 0.1855,
+        "ref_words": 566,
+        "hyp_words": 559
+      },
+      "img_0023.jpg": {
+        "wer": 0.2302,
+        "ref_words": 126,
+        "hyp_words": 129
+      },
+      "img_0024.jpg": {
+        "wer": 0.3832,
+        "ref_words": 107,
+        "hyp_words": 121
+      },
+      "img_0025.jpg": {
+        "wer": 0.4844,
+        "ref_words": 128,
+        "hyp_words": 94
+      },
+      "img_0026.jpg": {
+        "wer": 0.3691,
+        "ref_words": 149,
+        "hyp_words": 144
+      },
+      "img_0027.jpg": {
+        "wer": 0.4074,
+        "ref_words": 27,
+        "hyp_words": 26
+      },
+      "img_0028.jpg": {
+        "wer": 0.2357,
+        "ref_words": 157,
+        "hyp_words": 171
+      },
+      "img_0029.jpg": {
+        "wer": 0.0376,
+        "ref_words": 319,
+        "hyp_words": 315
+      },
+      "img_0030.jpg": {
+        "wer": 0.4127,
+        "ref_words": 126,
+        "hyp_words": 123
+      },
+      "img_0031.jpg": {
+        "wer": 0.4715,
+        "ref_words": 123,
+        "hyp_words": 107
+      },
+      "img_0032.jpg": {
+        "wer": 0.381,
+        "ref_words": 63,
+        "hyp_words": 65
+      },
+      "img_0033.jpg": {
+        "wer": 0.4865,
+        "ref_words": 111,
+        "hyp_words": 113
+      },
+      "img_0034.jpg": {
+        "wer": 0.2791,
+        "ref_words": 86,
+        "hyp_words": 88
+      },
+      "img_0035.jpg": {
+        "wer": 0.5529,
+        "ref_words": 85,
+        "hyp_words": 97
+      },
+      "img_0036.jpg": {
+        "wer": 0.469,
+        "ref_words": 113,
+        "hyp_words": 116
+      },
+      "img_0037.jpg": {
+        "wer": 1.1129,
+        "ref_words": 62,
+        "hyp_words": 91
+      },
+      "img_0038.jpg": {
+        "wer": 0.163,
+        "ref_words": 92,
+        "hyp_words": 91
+      },
+      "img_0039.jpg": {
+        "wer": 0.2258,
+        "ref_words": 93,
+        "hyp_words": 90
+      },
+      "img_0040.jpg": {
+        "wer": 0.5949,
+        "ref_words": 79,
+        "hyp_words": 110
+      },
+      "img_0041.jpg": {
+        "wer": 0.5346,
+        "ref_words": 159,
+        "hyp_words": 164
+      },
+      "img_0042.jpg": {
+        "wer": 0.5,
+        "ref_words": 92,
+        "hyp_words": 113
+      },
+      "img_0043.jpg": {
+        "wer": 0.9143,
+        "ref_words": 105,
+        "hyp_words": 134
+      },
+      "img_0044.jpg": {
+        "wer": 0.3684,
+        "ref_words": 133,
+        "hyp_words": 122
+      },
+      "img_0045.jpg": {
+        "wer": 1.2188,
+        "ref_words": 96,
+        "hyp_words": 160
+      },
+      "img_0046.jpg": {
+        "wer": 0.1658,
+        "ref_words": 193,
+        "hyp_words": 184
+      },
+      "img_0047.jpg": {
+        "wer": 0.3798,
+        "ref_words": 129,
+        "hyp_words": 115
+      },
+      "img_0048.jpg": {
+        "wer": 0.2966,
+        "ref_words": 145,
+        "hyp_words": 141
+      },
+      "img_0049.jpg": {
+        "wer": 0.6667,
+        "ref_words": 93,
+        "hyp_words": 86
+      },
+      "img_0050.jpg": {
+        "wer": 1.5524,
+        "ref_words": 105,
+        "hyp_words": 216
+      },
+      "img_0051.jpg": {
+        "wer": 0.1471,
+        "ref_words": 272,
+        "hyp_words": 269
+      },
+      "img_0052.jpg": {
+        "wer": 0.3415,
+        "ref_words": 82,
+        "hyp_words": 74
+      },
+      "img_0053.jpg": {
+        "wer": 0.1456,
+        "ref_words": 316,
+        "hyp_words": 308
+      },
+      "img_0054.jpg": {
+        "wer": 0.0753,
+        "ref_words": 292,
+        "hyp_words": 283
+      },
+      "img_0055.jpg": {
+        "wer": 0.2628,
+        "ref_words": 156,
+        "hyp_words": 154
+      },
+      "img_0056.jpg": {
+        "wer": 0.3377,
+        "ref_words": 154,
+        "hyp_words": 145
+      },
+      "img_0057.jpg": {
+        "wer": 0.0879,
+        "ref_words": 398,
+        "hyp_words": 398
+      },
+      "img_0058.jpg": {
+        "wer": 0.0363,
+        "ref_words": 358,
+        "hyp_words": 357
+      },
+      "img_0059.png": {
+        "wer": 0.2597,
+        "ref_words": 231,
+        "hyp_words": 205
+      },
+      "img_0060.jpg": {
+        "wer": 0.0074,
+        "ref_words": 272,
+        "hyp_words": 272
+      },
+      "img_0061.jpg": {
+        "wer": 0.0336,
+        "ref_words": 149,
+        "hyp_words": 149
+      },
+      "img_0062.jpg": {
+        "wer": 0.0551,
+        "ref_words": 345,
+        "hyp_words": 342
+      },
+      "img_0063.jpg": {
+        "wer": 0.037,
+        "ref_words": 324,
+        "hyp_words": 321
+      },
+      "img_0064.jpg": {
+        "wer": 0.2201,
+        "ref_words": 359,
+        "hyp_words": 344
+      },
+      "img_0065.jpg": {
+        "wer": 0.0985,
+        "ref_words": 325,
+        "hyp_words": 322
+      },
+      "img_0066.jpg": {
+        "wer": 0.3587,
+        "ref_words": 184,
+        "hyp_words": 166
+      },
+      "img_0067.jpg": {
+        "wer": 0.134,
+        "ref_words": 373,
+        "hyp_words": 382
+      },
+      "img_0068.jpg": {
+        "wer": 0.119,
+        "ref_words": 126,
+        "hyp_words": 123
+      },
+      "img_0069.jpg": {
+        "wer": 0.3012,
+        "ref_words": 166,
+        "hyp_words": 169
+      },
+      "img_0070.png": {
+        "wer": 0.1041,
+        "ref_words": 221,
+        "hyp_words": 221
+      },
+      "img_0071.jpg": {
+        "wer": 0.1103,
+        "ref_words": 281,
+        "hyp_words": 277
+      },
+      "img_0072.jpg": {
+        "wer": 0.0603,
+        "ref_words": 199,
+        "hyp_words": 195
+      },
+      "img_0073.jpg": {
+        "wer": 0.1221,
+        "ref_words": 344,
+        "hyp_words": 341
+      },
+      "img_0074.jpg": {
+        "wer": 0.218,
+        "ref_words": 133,
+        "hyp_words": 127
+      },
+      "img_0075.jpg": {
+        "wer": 0.045,
+        "ref_words": 378,
+        "hyp_words": 378
+      },
+      "img_0076.jpg": {
+        "wer": 0.12,
+        "ref_words": 350,
+        "hyp_words": 343
+      },
+      "img_0077.jpg": {
+        "wer": 0.1523,
+        "ref_words": 151,
+        "hyp_words": 152
+      },
+      "img_0078.png": {
+        "wer": 0.0727,
+        "ref_words": 289,
+        "hyp_words": 281
+      },
+      "img_0079.jpg": {
+        "wer": 0.0772,
+        "ref_words": 337,
+        "hyp_words": 334
+      },
+      "img_0080.jpg": {
+        "wer": 0.1025,
+        "ref_words": 361,
+        "hyp_words": 358
+      },
+      "img_0081.jpg": {
+        "wer": 0.1802,
+        "ref_words": 172,
+        "hyp_words": 163
+      },
+      "img_0082.jpg": {
+        "wer": 0.8548,
+        "ref_words": 124,
+        "hyp_words": 47
+      },
+      "img_0083.jpg": {
+        "wer": 0.5106,
+        "ref_words": 47,
+        "hyp_words": 46
+      },
+      "img_0084.jpg": {
+        "wer": 0.95,
+        "ref_words": 40,
+        "hyp_words": 44
+      },
+      "img_0085.jpg": {
+        "wer": 0.6667,
+        "ref_words": 39,
+        "hyp_words": 45
+      },
+      "img_0086.jpg": {
+        "wer": 0.7292,
+        "ref_words": 48,
+        "hyp_words": 35
+      },
+      "img_0087.jpg": {
+        "wer": 0.6154,
+        "ref_words": 52,
+        "hyp_words": 45
+      },
+      "img_0088.jpg": {
+        "wer": 0.8,
+        "ref_words": 65,
+        "hyp_words": 54
+      },
+      "img_0089.jpg": {
+        "wer": 0.6522,
+        "ref_words": 46,
+        "hyp_words": 40
+      },
+      "img_0090.jpg": {
+        "wer": 0.5897,
+        "ref_words": 39,
+        "hyp_words": 40
+      },
+      "img_0091.jpg": {
+        "wer": 0.7869,
+        "ref_words": 61,
+        "hyp_words": 62
+      },
+      "img_0092.jpg": {
+        "wer": 0.875,
+        "ref_words": 32,
+        "hyp_words": 30
+      },
+      "img_0093.jpg": {
+        "wer": 0.7101,
+        "ref_words": 69,
+        "hyp_words": 58
+      },
+      "img_0094.jpg": {
+        "wer": 0.6607,
+        "ref_words": 56,
+        "hyp_words": 49
+      },
+      "img_0095.jpg": {
+        "wer": 0.6316,
+        "ref_words": 38,
+        "hyp_words": 32
+      },
+      "img_0096.jpg": {
+        "wer": 0.2517,
+        "ref_words": 151,
+        "hyp_words": 149
+      },
+      "img_0097.jpg": {
+        "wer": 0.3853,
+        "ref_words": 109,
+        "hyp_words": 98
+      },
+      "img_0098.jpg": {
+        "wer": 0.3684,
+        "ref_words": 114,
+        "hyp_words": 111
+      },
+      "img_0099.jpg": {
+        "wer": 0.2867,
+        "ref_words": 143,
+        "hyp_words": 141
+      },
+      "img_0100.jpg": {
+        "wer": 0.1867,
+        "ref_words": 150,
+        "hyp_words": 144
+      },
+      "img_0101.jpg": {
+        "wer": 0.3481,
+        "ref_words": 158,
+        "hyp_words": 167
+      },
+      "img_0102.jpg": {
+        "wer": 0.4908,
+        "ref_words": 218,
+        "hyp_words": 204
+      },
+      "img_0103.jpg": {
+        "wer": 0.4503,
+        "ref_words": 151,
+        "hyp_words": 144
+      },
+      "img_0104.jpg": {
+        "wer": 0.3415,
+        "ref_words": 123,
+        "hyp_words": 119
+      },
+      "img_0105.jpg": {
+        "wer": 0.2204,
+        "ref_words": 186,
+        "hyp_words": 182
+      },
+      "img_0106.jpg": {
+        "wer": 0.3141,
+        "ref_words": 312,
+        "hyp_words": 320
+      },
+      "img_0107.png": {
+        "wer": 0.2526,
+        "ref_words": 194,
+        "hyp_words": 188
+      },
+      "img_0108.png": {
+        "wer": 0.3061,
+        "ref_words": 147,
+        "hyp_words": 144
+      },
+      "img_0109.jpg": {
+        "wer": 0.3616,
+        "ref_words": 177,
+        "hyp_words": 171
+      },
+      "img_0110.jpg": {
+        "wer": 0.367,
+        "ref_words": 109,
+        "hyp_words": 106
+      },
+      "img_0111.png": {
+        "wer": 0.2721,
+        "ref_words": 147,
+        "hyp_words": 149
+      },
+      "img_0112.png": {
+        "wer": 0.3892,
+        "ref_words": 167,
+        "hyp_words": 152
+      },
+      "img_0113.jpg": {
+        "wer": 0.3863,
+        "ref_words": 321,
+        "hyp_words": 309
+      }
+    }
+  },
+  "surya": {
+    "micro_wer": 0.0775,
+    "macro_wer": 0.2024,
+    "total_ref_words": 22635,
+    "per_image": {
+      "img_0001.jpg": {
+        "wer": 0.0,
+        "ref_words": 216,
+        "hyp_words": 216
+      },
+      "img_0002.jpg": {
+        "wer": 0.0,
+        "ref_words": 295,
+        "hyp_words": 295
+      },
+      "img_0003.jpg": {
+        "wer": 0.0254,
+        "ref_words": 551,
+        "hyp_words": 562
+      },
+      "img_0004.jpg": {
+        "wer": 0.0,
+        "ref_words": 481,
+        "hyp_words": 481
+      },
+      "img_0005.jpg": {
+        "wer": 0.0282,
+        "ref_words": 531,
+        "hyp_words": 534
+      },
+      "img_0006.jpg": {
+        "wer": 0.0,
+        "ref_words": 166,
+        "hyp_words": 166
+      },
+      "img_0007.jpg": {
+        "wer": 0.0,
+        "ref_words": 422,
+        "hyp_words": 422
+      },
+      "img_0008.jpg": {
+        "wer": 0.0257,
+        "ref_words": 467,
+        "hyp_words": 479
+      },
+      "img_0009.jpg": {
+        "wer": 0.0089,
+        "ref_words": 447,
+        "hyp_words": 450
+      },
+      "img_0010.jpg": {
+        "wer": 0.0052,
+        "ref_words": 194,
+        "hyp_words": 194
+      },
+      "img_0011.jpg": {
+        "wer": 0.0074,
+        "ref_words": 272,
+        "hyp_words": 273
+      },
+      "img_0012.jpg": {
+        "wer": 0.0095,
+        "ref_words": 211,
+        "hyp_words": 210
+      },
+      "img_0013.jpg": {
+        "wer": 0.0256,
+        "ref_words": 117,
+        "hyp_words": 117
+      },
+      "img_0014.jpg": {
+        "wer": 0.0,
+        "ref_words": 341,
+        "hyp_words": 341
+      },
+      "img_0015.png": {
+        "wer": 0.0165,
+        "ref_words": 545,
+        "hyp_words": 551
+      },
+      "img_0016.png": {
+        "wer": 0.0,
+        "ref_words": 139,
+        "hyp_words": 139
+      },
+      "img_0017.png": {
+        "wer": 0.024,
+        "ref_words": 542,
+        "hyp_words": 534
+      },
+      "img_0018.jpg": {
+        "wer": 0.0102,
+        "ref_words": 197,
+        "hyp_words": 197
+      },
+      "img_0019.jpg": {
+        "wer": 0.0269,
+        "ref_words": 260,
+        "hyp_words": 262
+      },
+      "img_0020.jpg": {
+        "wer": 0.0,
+        "ref_words": 167,
+        "hyp_words": 167
+      },
+      "img_0021.jpg": {
+        "wer": 0.0178,
+        "ref_words": 281,
+        "hyp_words": 282
+      },
+      "img_0022.png": {
+        "wer": 0.0141,
+        "ref_words": 566,
+        "hyp_words": 571
+      },
+      "img_0023.jpg": {
+        "wer": 0.127,
+        "ref_words": 126,
+        "hyp_words": 138
+      },
+      "img_0024.jpg": {
+        "wer": 0.0841,
+        "ref_words": 107,
+        "hyp_words": 106
+      },
+      "img_0025.jpg": {
+        "wer": 0.0625,
+        "ref_words": 128,
+        "hyp_words": 128
+      },
+      "img_0026.jpg": {
+        "wer": 0.1946,
+        "ref_words": 149,
+        "hyp_words": 154
+      },
+      "img_0027.jpg": {
+        "wer": 2.0,
+        "ref_words": 27,
+        "hyp_words": 77
+      },
+      "img_0028.jpg": {
+        "wer": 0.0892,
+        "ref_words": 157,
+        "hyp_words": 159
+      },
+      "img_0029.jpg": {
+        "wer": 0.0063,
+        "ref_words": 319,
+        "hyp_words": 320
+      },
+      "img_0030.jpg": {
+        "wer": 0.1667,
+        "ref_words": 126,
+        "hyp_words": 135
+      },
+      "img_0031.jpg": {
+        "wer": 0.3171,
+        "ref_words": 123,
+        "hyp_words": 136
+      },
+      "img_0032.jpg": {
+        "wer": 0.0,
+        "ref_words": 63,
+        "hyp_words": 63
+      },
+      "img_0033.jpg": {
+        "wer": 0.1622,
+        "ref_words": 111,
+        "hyp_words": 127
+      },
+      "img_0034.jpg": {
+        "wer": 0.4186,
+        "ref_words": 86,
+        "hyp_words": 113
+      },
+      "img_0035.jpg": {
+        "wer": 0.2706,
+        "ref_words": 85,
+        "hyp_words": 81
+      },
+      "img_0036.jpg": {
+        "wer": 0.1239,
+        "ref_words": 113,
+        "hyp_words": 121
+      },
+      "img_0037.jpg": {
+        "wer": 2.7742,
+        "ref_words": 62,
+        "hyp_words": 209
+      },
+      "img_0038.jpg": {
+        "wer": 0.0435,
+        "ref_words": 92,
+        "hyp_words": 93
+      },
+      "img_0039.jpg": {
+        "wer": 0.3763,
+        "ref_words": 93,
+        "hyp_words": 123
+      },
+      "img_0040.jpg": {
+        "wer": 0.3418,
+        "ref_words": 79,
+        "hyp_words": 98
+      },
+      "img_0041.jpg": {
+        "wer": 0.283,
+        "ref_words": 159,
+        "hyp_words": 176
+      },
+      "img_0042.jpg": {
+        "wer": 0.3804,
+        "ref_words": 92,
+        "hyp_words": 126
+      },
+      "img_0043.jpg": {
+        "wer": 1.0381,
+        "ref_words": 105,
+        "hyp_words": 186
+      },
+      "img_0044.jpg": {
+        "wer": 0.2256,
+        "ref_words": 133,
+        "hyp_words": 123
+      },
+      "img_0045.jpg": {
+        "wer": 0.9583,
+        "ref_words": 96,
+        "hyp_words": 156
+      },
+      "img_0046.jpg": {
+        "wer": 0.1036,
+        "ref_words": 193,
+        "hyp_words": 185
+      },
+      "img_0047.jpg": {
+        "wer": 0.2093,
+        "ref_words": 129,
+        "hyp_words": 135
+      },
+      "img_0048.jpg": {
+        "wer": 0.1862,
+        "ref_words": 145,
+        "hyp_words": 147
+      },
+      "img_0049.jpg": {
+        "wer": 0.5914,
+        "ref_words": 93,
+        "hyp_words": 115
+      },
+      "img_0050.jpg": {
+        "wer": 0.2571,
+        "ref_words": 105,
+        "hyp_words": 128
+      },
+      "img_0051.jpg": {
+        "wer": 0.0882,
+        "ref_words": 272,
+        "hyp_words": 284
+      },
+      "img_0052.jpg": {
+        "wer": 0.2561,
+        "ref_words": 82,
+        "hyp_words": 82
+      },
+      "img_0053.jpg": {
+        "wer": 0.0063,
+        "ref_words": 316,
+        "hyp_words": 316
+      },
+      "img_0054.jpg": {
+        "wer": 0.0068,
+        "ref_words": 292,
+        "hyp_words": 293
+      },
+      "img_0055.jpg": {
+        "wer": 0.0064,
+        "ref_words": 156,
+        "hyp_words": 156
+      },
+      "img_0056.jpg": {
+        "wer": 0.0195,
+        "ref_words": 154,
+        "hyp_words": 152
+      },
+      "img_0057.jpg": {
+        "wer": 0.0503,
+        "ref_words": 398,
+        "hyp_words": 381
+      },
+      "img_0058.jpg": {
+        "wer": 0.0,
+        "ref_words": 358,
+        "hyp_words": 358
+      },
+      "img_0059.png": {
+        "wer": 0.0,
+        "ref_words": 231,
+        "hyp_words": 231
+      },
+      "img_0060.jpg": {
+        "wer": 0.0,
+        "ref_words": 272,
+        "hyp_words": 272
+      },
+      "img_0061.jpg": {
+        "wer": 0.0067,
+        "ref_words": 149,
+        "hyp_words": 149
+      },
+      "img_0062.jpg": {
+        "wer": 0.0,
+        "ref_words": 345,
+        "hyp_words": 345
+      },
+      "img_0063.jpg": {
+        "wer": 0.0,
+        "ref_words": 324,
+        "hyp_words": 324
+      },
+      "img_0064.jpg": {
+        "wer": 0.0,
+        "ref_words": 359,
+        "hyp_words": 359
+      },
+      "img_0065.jpg": {
+        "wer": 0.0,
+        "ref_words": 325,
+        "hyp_words": 325
+      },
+      "img_0066.jpg": {
+        "wer": 0.0109,
+        "ref_words": 184,
+        "hyp_words": 183
+      },
+      "img_0067.jpg": {
+        "wer": 0.0027,
+        "ref_words": 373,
+        "hyp_words": 373
+      },
+      "img_0068.jpg": {
+        "wer": 0.0,
+        "ref_words": 126,
+        "hyp_words": 126
+      },
+      "img_0069.jpg": {
+        "wer": 0.006,
+        "ref_words": 166,
+        "hyp_words": 166
+      },
+      "img_0070.png": {
+        "wer": 0.0,
+        "ref_words": 221,
+        "hyp_words": 221
+      },
+      "img_0071.jpg": {
+        "wer": 0.0,
+        "ref_words": 281,
+        "hyp_words": 281
+      },
+      "img_0072.jpg": {
+        "wer": 0.005,
+        "ref_words": 199,
+        "hyp_words": 198
+      },
+      "img_0073.jpg": {
+        "wer": 0.0029,
+        "ref_words": 344,
+        "hyp_words": 345
+      },
+      "img_0074.jpg": {
+        "wer": 0.015,
+        "ref_words": 133,
+        "hyp_words": 134
+      },
+      "img_0075.jpg": {
+        "wer": 0.0026,
+        "ref_words": 378,
+        "hyp_words": 378
+      },
+      "img_0076.jpg": {
+        "wer": 0.0,
+        "ref_words": 350,
+        "hyp_words": 350
+      },
+      "img_0077.jpg": {
+        "wer": 0.0132,
+        "ref_words": 151,
+        "hyp_words": 150
+      },
+      "img_0078.png": {
+        "wer": 0.0035,
+        "ref_words": 289,
+        "hyp_words": 289
+      },
+      "img_0079.jpg": {
+        "wer": 0.003,
+        "ref_words": 337,
+        "hyp_words": 337
+      },
+      "img_0080.jpg": {
+        "wer": 0.0,
+        "ref_words": 361,
+        "hyp_words": 361
+      },
+      "img_0081.jpg": {
+        "wer": 0.0756,
+        "ref_words": 172,
+        "hyp_words": 181
+      },
+      "img_0082.jpg": {
+        "wer": 0.121,
+        "ref_words": 124,
+        "hyp_words": 132
+      },
+      "img_0083.jpg": {
+        "wer": 1.2553,
+        "ref_words": 47,
+        "hyp_words": 91
+      },
+      "img_0084.jpg": {
+        "wer": 0.775,
+        "ref_words": 40,
+        "hyp_words": 54
+      },
+      "img_0085.jpg": {
+        "wer": 0.5128,
+        "ref_words": 39,
+        "hyp_words": 51
+      },
+      "img_0086.jpg": {
+        "wer": 0.3958,
+        "ref_words": 48,
+        "hyp_words": 50
+      },
+      "img_0087.jpg": {
+        "wer": 0.5,
+        "ref_words": 52,
+        "hyp_words": 55
+      },
+      "img_0088.jpg": {
+        "wer": 1.0615,
+        "ref_words": 65,
+        "hyp_words": 114
+      },
+      "img_0089.jpg": {
+        "wer": 0.3478,
+        "ref_words": 46,
+        "hyp_words": 49
+      },
+      "img_0090.jpg": {
+        "wer": 0.7436,
+        "ref_words": 39,
+        "hyp_words": 54
+      },
+      "img_0091.jpg": {
+        "wer": 0.5738,
+        "ref_words": 61,
+        "hyp_words": 80
+      },
+      "img_0092.jpg": {
+        "wer": 0.875,
+        "ref_words": 32,
+        "hyp_words": 39
+      },
+      "img_0093.jpg": {
+        "wer": 1.5072,
+        "ref_words": 69,
+        "hyp_words": 153
+      },
+      "img_0094.jpg": {
+        "wer": 0.75,
+        "ref_words": 56,
+        "hyp_words": 70
+      },
+      "img_0095.jpg": {
+        "wer": 0.5263,
+        "ref_words": 38,
+        "hyp_words": 44
+      },
+      "img_0096.jpg": {
+        "wer": 0.0199,
+        "ref_words": 151,
+        "hyp_words": 152
+      },
+      "img_0097.jpg": {
+        "wer": 0.0275,
+        "ref_words": 109,
+        "hyp_words": 112
+      },
+      "img_0098.jpg": {
+        "wer": 0.0,
+        "ref_words": 114,
+        "hyp_words": 114
+      },
+      "img_0099.jpg": {
+        "wer": 0.049,
+        "ref_words": 143,
+        "hyp_words": 147
+      },
+      "img_0100.jpg": {
+        "wer": 0.0067,
+        "ref_words": 150,
+        "hyp_words": 150
+      },
+      "img_0101.jpg": {
+        "wer": 0.0063,
+        "ref_words": 158,
+        "hyp_words": 158
+      },
+      "img_0102.jpg": {
+        "wer": 0.0,
+        "ref_words": 218,
+        "hyp_words": 218
+      },
+      "img_0103.jpg": {
+        "wer": 0.0,
+        "ref_words": 151,
+        "hyp_words": 151
+      },
+      "img_0104.jpg": {
+        "wer": 0.0,
+        "ref_words": 123,
+        "hyp_words": 123
+      },
+      "img_0105.jpg": {
+        "wer": 0.0,
+        "ref_words": 186,
+        "hyp_words": 186
+      },
+      "img_0106.jpg": {
+        "wer": 0.0128,
+        "ref_words": 312,
+        "hyp_words": 316
+      },
+      "img_0107.png": {
+        "wer": 0.0258,
+        "ref_words": 194,
+        "hyp_words": 197
+      },
+      "img_0108.png": {
+        "wer": 0.0136,
+        "ref_words": 147,
+        "hyp_words": 147
+      },
+      "img_0109.jpg": {
+        "wer": 0.0226,
+        "ref_words": 177,
+        "hyp_words": 177
+      },
+      "img_0110.jpg": {
+        "wer": 0.0,
+        "ref_words": 109,
+        "hyp_words": 109
+      },
+      "img_0111.png": {
+        "wer": 0.0068,
+        "ref_words": 147,
+        "hyp_words": 147
+      },
+      "img_0112.png": {
+        "wer": 0.0719,
+        "ref_words": 167,
+        "hyp_words": 170
+      },
+      "img_0113.jpg": {
+        "wer": 0.0405,
+        "ref_words": 321,
+        "hyp_words": 324
+      }
+    }
+  },
+  "tesseract": {
+    "micro_wer": 0.3165,
+    "macro_wer": 0.4372,
+    "total_ref_words": 22635,
+    "per_image": {
+      "img_0001.jpg": {
+        "wer": 0.0648,
+        "ref_words": 216,
+        "hyp_words": 221
+      },
+      "img_0002.jpg": {
+        "wer": 0.4949,
+        "ref_words": 295,
+        "hyp_words": 294
+      },
+      "img_0003.jpg": {
+        "wer": 0.1815,
+        "ref_words": 551,
+        "hyp_words": 596
+      },
+      "img_0004.jpg": {
+        "wer": 0.1518,
+        "ref_words": 481,
+        "hyp_words": 482
+      },
+      "img_0005.jpg": {
+        "wer": 0.2938,
+        "ref_words": 531,
+        "hyp_words": 573
+      },
+      "img_0006.jpg": {
+        "wer": 0.3855,
+        "ref_words": 166,
+        "hyp_words": 160
+      },
+      "img_0007.jpg": {
+        "wer": 0.1161,
+        "ref_words": 422,
+        "hyp_words": 402
+      },
+      "img_0008.jpg": {
+        "wer": 0.0428,
+        "ref_words": 467,
+        "hyp_words": 469
+      },
+      "img_0009.jpg": {
+        "wer": 0.6085,
+        "ref_words": 447,
+        "hyp_words": 252
+      },
+      "img_0010.jpg": {
+        "wer": 0.433,
+        "ref_words": 194,
+        "hyp_words": 200
+      },
+      "img_0011.jpg": {
+        "wer": 0.0772,
+        "ref_words": 272,
+        "hyp_words": 278
+      },
+      "img_0012.jpg": {
+        "wer": 1.0,
+        "ref_words": 211,
+        "hyp_words": 2
+      },
+      "img_0013.jpg": {
+        "wer": 0.3504,
+        "ref_words": 117,
+        "hyp_words": 112
+      },
+      "img_0014.jpg": {
+        "wer": 0.1613,
+        "ref_words": 341,
+        "hyp_words": 356
+      },
+      "img_0015.png": {
+        "wer": 0.1358,
+        "ref_words": 545,
+        "hyp_words": 520
+      },
+      "img_0016.png": {
+        "wer": 0.9424,
+        "ref_words": 139,
+        "hyp_words": 95
+      },
+      "img_0017.png": {
+        "wer": 0.2528,
+        "ref_words": 542,
+        "hyp_words": 580
+      },
+      "img_0018.jpg": {
+        "wer": 0.0457,
+        "ref_words": 197,
+        "hyp_words": 196
+      },
+      "img_0019.jpg": {
+        "wer": 0.2038,
+        "ref_words": 260,
+        "hyp_words": 270
+      },
+      "img_0020.jpg": {
+        "wer": 0.3952,
+        "ref_words": 167,
+        "hyp_words": 177
+      },
+      "img_0021.jpg": {
+        "wer": 0.1103,
+        "ref_words": 281,
+        "hyp_words": 289
+      },
+      "img_0022.png": {
+        "wer": 0.4276,
+        "ref_words": 566,
+        "hyp_words": 550
+      },
+      "img_0023.jpg": {
+        "wer": 0.3175,
+        "ref_words": 126,
+        "hyp_words": 121
+      },
+      "img_0024.jpg": {
+        "wer": 0.3925,
+        "ref_words": 107,
+        "hyp_words": 91
+      },
+      "img_0025.jpg": {
+        "wer": 0.5703,
+        "ref_words": 128,
+        "hyp_words": 89
+      },
+      "img_0026.jpg": {
+        "wer": 0.3758,
+        "ref_words": 149,
+        "hyp_words": 154
+      },
+      "img_0027.jpg": {
+        "wer": 0.4815,
+        "ref_words": 27,
+        "hyp_words": 26
+      },
+      "img_0028.jpg": {
+        "wer": 0.1975,
+        "ref_words": 157,
+        "hyp_words": 152
+      },
+      "img_0029.jpg": {
+        "wer": 0.0439,
+        "ref_words": 319,
+        "hyp_words": 318
+      },
+      "img_0030.jpg": {
+        "wer": 0.4127,
+        "ref_words": 126,
+        "hyp_words": 126
+      },
+      "img_0031.jpg": {
+        "wer": 0.4309,
+        "ref_words": 123,
+        "hyp_words": 95
+      },
+      "img_0032.jpg": {
+        "wer": 0.3175,
+        "ref_words": 63,
+        "hyp_words": 64
+      },
+      "img_0033.jpg": {
+        "wer": 0.4054,
+        "ref_words": 111,
+        "hyp_words": 122
+      },
+      "img_0034.jpg": {
+        "wer": 0.407,
+        "ref_words": 86,
+        "hyp_words": 84
+      },
+      "img_0035.jpg": {
+        "wer": 0.6118,
+        "ref_words": 85,
+        "hyp_words": 100
+      },
+      "img_0036.jpg": {
+        "wer": 0.3805,
+        "ref_words": 113,
+        "hyp_words": 105
+      },
+      "img_0037.jpg": {
+        "wer": 0.9839,
+        "ref_words": 62,
+        "hyp_words": 4
+      },
+      "img_0038.jpg": {
+        "wer": 0.2935,
+        "ref_words": 92,
+        "hyp_words": 84
+      },
+      "img_0039.jpg": {
+        "wer": 0.7527,
+        "ref_words": 93,
+        "hyp_words": 111
+      },
+      "img_0040.jpg": {
+        "wer": 0.8354,
+        "ref_words": 79,
+        "hyp_words": 103
+      },
+      "img_0041.jpg": {
+        "wer": 0.5157,
+        "ref_words": 159,
+        "hyp_words": 184
+      },
+      "img_0042.jpg": {
+        "wer": 0.3043,
+        "ref_words": 92,
+        "hyp_words": 90
+      },
+      "img_0043.jpg": {
+        "wer": 0.7714,
+        "ref_words": 105,
+        "hyp_words": 43
+      },
+      "img_0044.jpg": {
+        "wer": 0.5639,
+        "ref_words": 133,
+        "hyp_words": 125
+      },
+      "img_0045.jpg": {
+        "wer": 0.7396,
+        "ref_words": 96,
+        "hyp_words": 59
+      },
+      "img_0046.jpg": {
+        "wer": 0.9896,
+        "ref_words": 193,
+        "hyp_words": 195
+      },
+      "img_0047.jpg": {
+        "wer": 0.4264,
+        "ref_words": 129,
+        "hyp_words": 117
+      },
+      "img_0048.jpg": {
+        "wer": 0.9241,
+        "ref_words": 145,
+        "hyp_words": 33
+      },
+      "img_0049.jpg": {
+        "wer": 1.0,
+        "ref_words": 93,
+        "hyp_words": 0
+      },
+      "img_0050.jpg": {
+        "wer": 0.9333,
+        "ref_words": 105,
+        "hyp_words": 9
+      },
+      "img_0051.jpg": {
+        "wer": 0.2059,
+        "ref_words": 272,
+        "hyp_words": 291
+      },
+      "img_0052.jpg": {
+        "wer": 0.9878,
+        "ref_words": 82,
+        "hyp_words": 3
+      },
+      "img_0053.jpg": {
+        "wer": 0.1076,
+        "ref_words": 316,
+        "hyp_words": 310
+      },
+      "img_0054.jpg": {
+        "wer": 0.0993,
+        "ref_words": 292,
+        "hyp_words": 295
+      },
+      "img_0055.jpg": {
+        "wer": 0.5,
+        "ref_words": 156,
+        "hyp_words": 138
+      },
+      "img_0056.jpg": {
+        "wer": 0.513,
+        "ref_words": 154,
+        "hyp_words": 146
+      },
+      "img_0057.jpg": {
+        "wer": 0.0603,
+        "ref_words": 398,
+        "hyp_words": 401
+      },
+      "img_0058.jpg": {
+        "wer": 0.0531,
+        "ref_words": 358,
+        "hyp_words": 357
+      },
+      "img_0059.png": {
+        "wer": 0.1688,
+        "ref_words": 231,
+        "hyp_words": 240
+      },
+      "img_0060.jpg": {
+        "wer": 0.0074,
+        "ref_words": 272,
+        "hyp_words": 272
+      },
+      "img_0061.jpg": {
+        "wer": 0.2416,
+        "ref_words": 149,
+        "hyp_words": 144
+      },
+      "img_0062.jpg": {
+        "wer": 0.0232,
+        "ref_words": 345,
+        "hyp_words": 345
+      },
+      "img_0063.jpg": {
+        "wer": 0.0216,
+        "ref_words": 324,
+        "hyp_words": 323
+      },
+      "img_0064.jpg": {
+        "wer": 0.0084,
+        "ref_words": 359,
+        "hyp_words": 359
+      },
+      "img_0065.jpg": {
+        "wer": 0.0769,
+        "ref_words": 325,
+        "hyp_words": 311
+      },
+      "img_0066.jpg": {
+        "wer": 0.1304,
+        "ref_words": 184,
+        "hyp_words": 192
+      },
+      "img_0067.jpg": {
+        "wer": 0.1555,
+        "ref_words": 373,
+        "hyp_words": 370
+      },
+      "img_0068.jpg": {
+        "wer": 0.1032,
+        "ref_words": 126,
+        "hyp_words": 124
+      },
+      "img_0069.jpg": {
+        "wer": 0.1024,
+        "ref_words": 166,
+        "hyp_words": 165
+      },
+      "img_0070.png": {
+        "wer": 0.5656,
+        "ref_words": 221,
+        "hyp_words": 199
+      },
+      "img_0071.jpg": {
+        "wer": 0.0747,
+        "ref_words": 281,
+        "hyp_words": 279
+      },
+      "img_0072.jpg": {
+        "wer": 0.0905,
+        "ref_words": 199,
+        "hyp_words": 187
+      },
+      "img_0073.jpg": {
+        "wer": 0.1744,
+        "ref_words": 344,
+        "hyp_words": 321
+      },
+      "img_0074.jpg": {
+        "wer": 0.2406,
+        "ref_words": 133,
+        "hyp_words": 120
+      },
+      "img_0075.jpg": {
+        "wer": 0.0317,
+        "ref_words": 378,
+        "hyp_words": 378
+      },
+      "img_0076.jpg": {
+        "wer": 0.2771,
+        "ref_words": 350,
+        "hyp_words": 347
+      },
+      "img_0077.jpg": {
+        "wer": 0.1788,
+        "ref_words": 151,
+        "hyp_words": 157
+      },
+      "img_0078.png": {
+        "wer": 0.0277,
+        "ref_words": 289,
+        "hyp_words": 290
+      },
+      "img_0079.jpg": {
+        "wer": 0.092,
+        "ref_words": 337,
+        "hyp_words": 338
+      },
+      "img_0080.jpg": {
+        "wer": 0.385,
+        "ref_words": 361,
+        "hyp_words": 351
+      },
+      "img_0081.jpg": {
+        "wer": 0.5058,
+        "ref_words": 172,
+        "hyp_words": 120
+      },
+      "img_0082.jpg": {
+        "wer": 0.879,
+        "ref_words": 124,
+        "hyp_words": 30
+      },
+      "img_0083.jpg": {
+        "wer": 0.8298,
+        "ref_words": 47,
+        "hyp_words": 40
+      },
+      "img_0084.jpg": {
+        "wer": 0.7,
+        "ref_words": 40,
+        "hyp_words": 32
+      },
+      "img_0085.jpg": {
+        "wer": 1.6154,
+        "ref_words": 39,
+        "hyp_words": 75
+      },
+      "img_0086.jpg": {
+        "wer": 0.8125,
+        "ref_words": 48,
+        "hyp_words": 22
+      },
+      "img_0087.jpg": {
+        "wer": 0.75,
+        "ref_words": 52,
+        "hyp_words": 39
+      },
+      "img_0088.jpg": {
+        "wer": 0.8154,
+        "ref_words": 65,
+        "hyp_words": 36
+      },
+      "img_0089.jpg": {
+        "wer": 0.6957,
+        "ref_words": 46,
+        "hyp_words": 41
+      },
+      "img_0090.jpg": {
+        "wer": 1.0513,
+        "ref_words": 39,
+        "hyp_words": 58
+      },
+      "img_0091.jpg": {
+        "wer": 0.8033,
+        "ref_words": 61,
+        "hyp_words": 54
+      },
+      "img_0092.jpg": {
+        "wer": 0.9688,
+        "ref_words": 32,
+        "hyp_words": 3
+      },
+      "img_0093.jpg": {
+        "wer": 0.971,
+        "ref_words": 69,
+        "hyp_words": 63
+      },
+      "img_0094.jpg": {
+        "wer": 0.7679,
+        "ref_words": 56,
+        "hyp_words": 37
+      },
+      "img_0095.jpg": {
+        "wer": 0.6842,
+        "ref_words": 38,
+        "hyp_words": 26
+      },
+      "img_0096.jpg": {
+        "wer": 0.5099,
+        "ref_words": 151,
+        "hyp_words": 124
+      },
+      "img_0097.jpg": {
+        "wer": 0.5688,
+        "ref_words": 109,
+        "hyp_words": 93
+      },
+      "img_0098.jpg": {
+        "wer": 0.4912,
+        "ref_words": 114,
+        "hyp_words": 113
+      },
+      "img_0099.jpg": {
+        "wer": 0.1818,
+        "ref_words": 143,
+        "hyp_words": 145
+      },
+      "img_0100.jpg": {
+        "wer": 0.6667,
+        "ref_words": 150,
+        "hyp_words": 145
+      },
+      "img_0101.jpg": {
+        "wer": 0.3291,
+        "ref_words": 158,
+        "hyp_words": 168
+      },
+      "img_0102.jpg": {
+        "wer": 0.5092,
+        "ref_words": 218,
+        "hyp_words": 212
+      },
+      "img_0103.jpg": {
+        "wer": 0.3974,
+        "ref_words": 151,
+        "hyp_words": 142
+      },
+      "img_0104.jpg": {
+        "wer": 0.4309,
+        "ref_words": 123,
+        "hyp_words": 122
+      },
+      "img_0105.jpg": {
+        "wer": 0.2742,
+        "ref_words": 186,
+        "hyp_words": 179
+      },
+      "img_0106.jpg": {
+        "wer": 0.3846,
+        "ref_words": 312,
+        "hyp_words": 297
+      },
+      "img_0107.png": {
+        "wer": 0.2835,
+        "ref_words": 194,
+        "hyp_words": 172
+      },
+      "img_0108.png": {
+        "wer": 0.5646,
+        "ref_words": 147,
+        "hyp_words": 118
+      },
+      "img_0109.jpg": {
+        "wer": 0.3503,
+        "ref_words": 177,
+        "hyp_words": 173
+      },
+      "img_0110.jpg": {
+        "wer": 0.633,
+        "ref_words": 109,
+        "hyp_words": 113
+      },
+      "img_0111.png": {
+        "wer": 0.4966,
+        "ref_words": 147,
+        "hyp_words": 125
+      },
+      "img_0112.png": {
+        "wer": 0.8623,
+        "ref_words": 167,
+        "hyp_words": 79
+      },
+      "img_0113.jpg": {
+        "wer": 0.6604,
+        "ref_words": 321,
+        "hyp_words": 296
+      }
+    }
+  }
+}

@@ -1,0 +1,21 @@
+numpy
+opencv-python-headless
+Pillow
+matplotlib
+seaborn
+pandas
+scipy
+lxml
+tqdm
+
+# OCR models
+pytesseract
+easyocr
+surya-ocr
+python-doctr[torch]
+paddleocr>=2.9
+paddlepaddle-gpu
+mmocr
+mmdet
+mmengine
+mmcv

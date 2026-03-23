@@ -1,0 +1,9 @@
+.venv/
+.venv_paddle/
+.venv_mmocr/
+__pycache__/
+*.pyc
+data/images
+data/annotations
+.venv_dotsocr/
+.venv_docling/

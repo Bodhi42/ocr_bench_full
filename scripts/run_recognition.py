@@ -68,8 +68,32 @@ def main():
         from src.recognizers.dotsocr_rec import DotsOCRRecognizer
         rec = DotsOCRRecognizer()
 
+    elif model == "occular" or model == "occular_ocr":
+        from src.recognizers.occular_rec import OccularRecognizer
+        rec = OccularRecognizer()
+
+    elif model == "yandex" or model == "yandex_vision":
+        from src.recognizers.yandex_rec import YandexRecognizer
+        rec = YandexRecognizer()
+
+    elif model.startswith("qwen"):
+        from src.recognizers.qwen_rec import QwenVLRecognizer
+        model_map = {
+            "qwen2.5-vl-32b": "qwen/qwen2.5-vl-32b-instruct",
+            "qwen2.5-vl-72b": "qwen/qwen2.5-vl-72b-instruct",
+            "qwen3-vl-32b": "qwen/qwen3-vl-32b-instruct",
+        }
+        model_id = model_map.get(model)
+        if not model_id:
+            print(f"Unknown qwen model: {model}. Available: {list(model_map.keys())}")
+            sys.exit(1)
+        rec = QwenVLRecognizer(model_id, provider="Parasail")
+
     else:
         print(f"Unknown model: {args.model}")
+        print("Available: tesseract, easyocr, surya, paddle_eslav, paddle_cyrillic,")
+        print("           docling, dotsocr, occular, yandex_vision,")
+        print("           qwen2.5-vl-32b, qwen2.5-vl-72b, qwen3-vl-32b")
         sys.exit(1)
 
     print(f"Running {rec.name}...")

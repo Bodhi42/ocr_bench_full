@@ -4,7 +4,7 @@ PROJECT_ROOT = Path(__file__).resolve().parent.parent
 
 DATA_DIR = PROJECT_ROOT / "data"
 IMAGES_DIR = DATA_DIR / "images"
-ANNOTATIONS_PATH = DATA_DIR / "annotations" / "annotations_cvat.xml"
+ANNOTATIONS_PATH = DATA_DIR / "annotations" / "annotations_yandex.xml"
 
 PREDICTIONS_DIR = PROJECT_ROOT / "predictions"
 RESULTS_DIR = PROJECT_ROOT / "results"

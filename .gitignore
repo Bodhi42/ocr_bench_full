@@ -1,9 +1,8 @@
-.venv/
-.venv_paddle/
-.venv_mmocr/
+.venv*/
 __pycache__/
 *.pyc
 data/images
 data/annotations
-.venv_dotsocr/
-.venv_docling/
+predictions/yandex_cache/
+predictions/qwen_cache_*/
+test_yandex.py

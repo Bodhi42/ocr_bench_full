@@ -46,7 +46,6 @@
 | PaddleOCR PP-OCRv5 mobile | DB | Строки |
 | Tesseract 5 | LSTM + merging | Строки (мердж слов) |
 | EasyOCR | CRAFT | Фрагменты строк |
-| Occular OCR | DBNet | Строки |
 | doctr (5 архитектур) | DB / LinkNet | Слова |
 
 ### Recognition — классические OCR
@@ -57,7 +56,6 @@
 | PaddleOCR cyrillic | PP-OCRv4 (rs_cyrillic) | CPU |
 | PaddleOCR eslav | PP-OCRv4 (ru) | CPU |
 | Tesseract 5 | LSTM | CPU |
-| Occular OCR | CRNN + DBNet | CPU/ONNX |
 | EasyOCR | CRNN | GPU |
 
 ### Recognition — VLM (через OpenRouter API)

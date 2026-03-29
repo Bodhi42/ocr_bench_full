@@ -68,10 +68,6 @@ def main():
         from src.recognizers.dotsocr_rec import DotsOCRRecognizer
         rec = DotsOCRRecognizer()
 
-    elif model == "occular" or model == "occular_ocr":
-        from src.recognizers.occular_rec import OccularRecognizer
-        rec = OccularRecognizer()
-
     elif model == "yandex" or model == "yandex_vision":
         from src.recognizers.yandex_rec import YandexRecognizer
         rec = YandexRecognizer()
@@ -92,7 +88,7 @@ def main():
     else:
         print(f"Unknown model: {args.model}")
         print("Available: tesseract, easyocr, surya, paddle_eslav, paddle_cyrillic,")
-        print("           docling, dotsocr, occular, yandex_vision,")
+        print("           docling, dotsocr, yandex_vision,")
         print("           qwen2.5-vl-32b, qwen2.5-vl-72b, qwen3-vl-32b")
         sys.exit(1)
 

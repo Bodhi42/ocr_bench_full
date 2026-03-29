@@ -76,14 +76,6 @@ def load_detectors(model_filter: list[str] | None = None) -> list:
         except Exception as e:
             print(f"  [SKIP] paddle_server: {e}")
 
-    # Occular OCR
-    if should_load("occular"):
-        try:
-            from src.detectors.occular_detector import OccularDetector
-            detectors.append(OccularDetector())
-        except Exception as e:
-            print(f"  [SKIP] occular: {e}")
-
     # Yandex Vision (requires yc CLI + auth)
     if should_load("yandex"):
         try:

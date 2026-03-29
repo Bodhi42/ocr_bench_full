@@ -62,10 +62,6 @@ def main():
         from src.detectors.paddle_detector import PaddleServerDetector
         det = PaddleServerDetector()
 
-    elif model in ("occular", "occular_ocr"):
-        from src.detectors.occular_detector import OccularDetector
-        det = OccularDetector()
-
     elif model in ("yandex", "yandex_vision"):
         from src.detectors.yandex_detector import YandexDetector
         det = YandexDetector()
@@ -73,7 +69,7 @@ def main():
     else:
         print(f"Unknown model: {args.model}")
         print("Available: tesseract, easyocr_craft, surya, doctr_*, paddle_v5_mobile,")
-        print("           paddle_v5_server, occular, yandex_vision")
+        print("           paddle_v5_server, yandex_vision")
         sys.exit(1)
 
     print(f"Running {det.name}...")
